@@ -200,4 +200,178 @@ The inquiry as to the gods and the universe has shown that the true god is a nam
 
 Such an admission: "I am that Being," "I am Brahman," was a bold and a decisive move. In short, that was the great discovery which has remained for at least twenty-five centuries the capital and the most cherished truth of the Indian people. It is much more than an academical theory.
 
+There is only one Self, for the self of man is not a creation, an emanation or a part of the Self of the universe: it is this very Self. "The unique and indivisible Self is immortal, happy, unqualified, unconscious; but he animates the body, he becomes, as it were, man. As such he experiences pain and desire, he accumulates merit and demerit, he migrates from existence to existence, always unhappy because he is always a prey to ever recurring death, --- and without any hope of deliverance, as long as he does not withdraw himself from the not Self. But as soon as the individualized Self has acquired the perfect immediate certainty that he is the universal Self, he no longer experiences doubt, desire or suffering. He still acts, as the wheel of the potter continues to revolve when the potter has ceased to turn it. Death, at last, abolishes what no longer exists for him, the last appearance of duality."*
+
+That is perfect bliss, --- which we sometimes experience in dreamless sleep, when the Self is withdrawn from not Self, --- and unconsciousness: for, "where there is a duality, one can see the other, one can smell the other, one can address the other, one can hear the other, one can think of the other, one can grasp the other. But where for each everything has turned into his own self, by whom and whom shall he see, smell, address, hear, think or grasp?"*
+
+*) A. Barth, _Religions of India_, p. 78. See below, p. 161.
+
+*) _Bṛhadāraṇyaka_, 2., 4, 13; compare 4., 3, 23.
+
+That the doctrines of transmigration, of the Self, of the merging of the individual self in the great self, were antagonistic to the traditional beliefs in the gods, the sacrifice, the paradises, and aimed directly at the destruction of the whole fabric of social life, is self-evident.
+
+The times were ripe for asceticism and the disciplines of deliverance to arise.
+
+# Chapter 2. The Buddhist Soul.
+
+1\. Buddhism a form of rationalism. 2. Buddhist psychology; contradictions. 3. There is no Self: Man is a chariot. 4. There is reward of actions in a future life. 5. Whether Buddhists deny rebirth or migration of a soul, while maintaining migration of _karman_ or character. 6. Buddhists admit a sort of soul.
+
+## 1\.
+
+We have given a general definition of the Indian disciplines of salvation and tried to make clear that they are Paths leading the ascetic, beyond the ocean of transmigration, to some mysterious somewhere. Buddhism has been, from the beginning, a religion, a religion properly so called; that is, there have been, from the beginning, Buddhists for whom Buddha was a god and who did not hope for a better state than rebirth in Buddha's heaven; but this Buddhist religion has nothing or little to do with the most authentic teaching of Śākyamuni. Old Buddhism is essentially a discipline of salvation, --- and this discipline widely differs from the other disciplines of salvation.
+
+If we were asked to characterise in a word the old Buddhist discipline of salvation and the old Buddhism as a whole, we should say that it is a form of rationalism. Every idea and every practice made use of by Śākyamuni to build up his theory and his rule of religious life have been freed from any tinge of mysticism.
+
+Four points may be distinguished.
+
+1\. The most conspicuous and 'buddhistic' feature of Buddhist rationalism is the definition Śākyamuni and his disciples give of Man. Man is to be delivered from transmigration; but what do we mean by the word 'man'? Much depends on the answer, which will be studied in this chapter.
+
+2\. As concerns transmigration and the factors that govern transmigration, the rivals of Śākyamuni believe that God, or the gods, or destiny, or sacrifice are of greater or less importance. Śākyamuni, on the contrary, teaches that transmigration depends on the actions of Man himself.*
+
+*) See chapters 3 and 4.
+
+3\. As concerns the aim to be reached, deliverance. For the rivals of Śākyamuni, deliverance is either the merging of the individual Self in the great Self, or some mystical state of the Self; while Śākyamuni takes a merely negative view of deliverance: the Buddhist deliverance or Nirvāṇa is only cessation of rebirth, end of misery.*
+
+*) See chapter 5.
+
+4\. As concerns the Path leading to deliverance, the rivals of Śākyamuni lay much stress on sacrifice, penance, ecstasies, esoteric wisdom, as means to deliverance. With Śākyamuni, the essential part of the Path is the understanding of a few very simple truths: 'Life ends in death,' 'Everything is misery.'*
+
+We say that old Buddhism was rationalistic, thoroughly rationalistic; but this thoroughness was not absolute, and could not be absolute. This fact must be borne in mind, even when the rationalistic character of Buddhism is emphasized, if we are to avoid the mistake of some historians who describe the old Buddhists according to the pattern of the agnostics or the materialists of to-day.
+
+Buddhism originated in pagan and mystical surroundings. It is true that it succeeded in explaining the cosmos and human destiny without having recourse to any metaphysical agent; that it succeeded in making all the popular beliefs --- belief in transmigration, in paradises, in hells, in magical powers --- and nearly all the ascetic practices --- penances and ecstasies --- subservient to its own rationalistic ideals and principles. But it did not reject these beliefs, it did not contest the efficacy of these practices: these beliefs and these practices are, in fact, essential parts of the Buddhist doctrine.
+
+Buddhism, therefore --- we mean the Buddhism of the Books and of the most learned monks --- is a rationalism, but a qualified, an Indian rationalism.
+
+*) See chapter 6.
+
+Moreover, this rationalism is not always consistent with itself. A number of inconsistencies might be quoted. For example the teaching of the Master was strict on the point that merit is strictly personal. But old India believed that merit, together with its reward, is something that can be given by one individual to another. A doctrine of the transfer of merit was tacitly lurking in some Buddhist circles and found expression in several passages of the Scripture. We are told that the right means of helping the dead is not to give them offerings, but to make gifts to the living for the benefit of the dead; that the right means of rendering homage to the deities is not to worship them, but to give them a share in our own pious works. Later this doctrine of the transfer of merit became the leading idea of neo-Buddhism (Mahāyāna) and was developed into a dogma comparable, in many respects, to the Christian dogma of the communion of saints.
+
+## 2\.
+ 
+The Buddhist definition of Man is summarized in a word, _nairātmya_, 'selflessness,' not, as usually translated, 'soullessness.' The matter is somewhat difficult, the more so because we do not agree with the common opinion of scholars, and we cannot avoid discussing this opinion.
+
+Two facts are well ascertained and beyond discussion: _1._ Śākyamuni does not admit the existence of a Self (_ātman_), a permanent individual; he teaches that the so-called Self is a compound of material and spiritual data called _skandhas_; _2._ but he nevertheless teaches reward of actions in a future life. There is, _prima facie_, a contradiction.
+
+The common explanation of this contradiction is as follows: Śākyamuni teaches annihilation at death, and denies rebirth or transmigration; but he believes that, owing to the strength of actions, a new being is created who is to inherit the actions of the dead man and to enjoy their fruit. A man dies and is dead for ever, but his goodness or wickedness persists and causes another man to be born.
+
+We shall show, to the best of our power, that this explanation lacks the support of the texts and is inadmissible; and we shall set forth the doctrine which is clearly delineated by the Buddhists themselves --- not, it is true, by the oldest Buddhists. There is not a Self, a permanent substantial unity, but there is a person, to be described as 'a living continuous fluid complex,' which does not remain quite the same for two consecutive moments, but which continues for an endless number of existences, bridging an endless number of deaths, without becoming completely different from itself.
+
+## 3\.
+
+The primitive psychology, in India as elsewhere, was 'animistic.'
+
+There is a principle of life and heat, which moves the body, feels and wills. This principle, although it is often identified with the breath (_prāṇa_), is not a spiritual entity. Rather is it a semi-material soul, or an impalpable body --- a 'subtle body' (_sūkṣma śarīra_) as the Indians say --- a double which, during life, may abandon the gross body, its fleshly abode, when for instance it travels far away in dreams; and which, at death, finally flies away by an aperture at the top of the head, only to be reincarnated elsewhere.
+
+The Brahmans started from these 'animistic' views to develop a metaphysical psychology, quite different from the theories of the West. It must never be forgotten that the Indian philosopher found his materials, not in Nature, through a direct and scientific observation, but in the crude surmises of the popular or ritualistic tradition. A strong and truly philosophical thought came into contact, not with real and ascertained facts, but with wild speculations. The result is often somewhat bewildering.
+
+The leading principle of the philosopher was that what is transitory cannot be the Self. He therefore distinguished two constituents. The first one is the subtle body of the old 'animistic' belief: subtle elements, subtle earth, water, wind and fire, making subtle organs of sensation, one of which is the mind. The second constituent is an everlasting and spiritual principle, the Self that is enveloped in the subtle body, in the semi-material soul.
+
+On the nature of the Self the Brahmans do not agree. Two schools are prominent, the Sāṃkhya and the Vedānta.
+
+According to Sāṃkhya, there are many Selves, called _puruṣa_, a word which means Man. They are eternal, unmodifiable and passive, producing nothing and doing nothing; they are enveloped in the subtle body; they illuminate the play of the senses and of the mind; they experience pleasure and disgust; they migrate from existence to existence "until the day when, fully satiated and recognising themselves as distinct from matter, they break partnership with it and return to their primeval liberty and unconsciousness."* The Self has no longer anything to illuminate.
+
+With the second school or Vedānta, there is only one Self, the great, unique and unmodifiable Self, another name of which is Brahman. This unique Self becomes multiform in appearance, owing to the diversity of the material envelopes in which it is wrapped; these envelopes --- as well as the whole cosmos --- are the creation, the 'magic' of the Self; but it does not know. When it knows, the illusions come to an end and the Self is delivered from individuality and from pain.
+
+In both these systems, the Self is, as the philosophers say, transcendent to the psychical life. For Sāṃkhya, the Self is only a light that illuminates the play of senses and mind, which are material and by themselves unconscious; for Vedānta, only a magician who takes interest in the magical shows that he unwillingly creates; for Sāṃkhya and Vedānta, 'ideation' is exterior to the Self. The question is whether it is not possible to dispense with such a Self. Śākyamuni answers in the affirmative.
+
+*) Barth, _Religions of India_, p. 70.
+
+The Buddhist psychology, in sharp contrast with Brahman psychologies --- and, it may be said, with nearly all psychologies --- avoids or pretends to avoid any metaphysical surmise. It is built up of facts, of the facts that seemed, in that old time, to be scientifically ascertained. And it is a surprise that, but for one point --- transmigration --- the theory concocted by the yellow-garbed monks of yore agrees closely with one of the modern theories of the soul, the theory of Hume or Taine and of many scientists.
+
+According to the Buddhists, no Self, that is, no unity, permanent feeling or thinking entity, comes into the field of inquiry. We know only the body, which is visibly a composite, growing and decaying thing, and a number of phenomena, feelings, perceptions, wishes or wills, cognitions --- in philosophic language, a number of states of consciousness. That these states of consciousness depend upon a Self, are the product of a Self or arise in a Self, is only a surmise, since there is no consciousness of a Self outside these states of consciousness; and a wrong surmise, since there cannot be connexion between 'being' and 'becoming': "There are perceptions, but we do not know a perceiver."
+
+As a matter of fact, we are well aware of the origin of perceptions, of the origin of all the states of consciousness.
+
+There is an organism, a physico-psychical organism. On the one hand, the gross body, with the five gross organs, eye and so on. On the other hand, the subtle body, that is, the five true organs, subtle eye and so on, and the intellectual organ, the mind: an organ, made of subtle matter like the visual organ, which knows ideas as the visual organ sees colours.
+
+There are exterior objects which are brought into contact with this organism.
+
+Thus arises consciousness*: "The colour blue being given, the organ of the eye being also given, there arises a contact which originates a visual knowledge, namely a blue image." This image is at once elaborated by the mind which creates an intellectual or mental knowledge in giving a name to the object: "that is blue."
+
+*) See _Saṃyutta_, 2., p. 72; _Majjhima_, 1., 3.; _Milinda_, p. 56 and _passim_.
+
+Hence follows a sensation, pleasant or unpleasant, which produces desire or disgust, which in turn produces an act of volition, an action. Buddha is reported to have said that "there is action, but there is not an agent."
+
+A very bold statement, but a very logical one. For what the heretics, that is the Brahmans, call a Self is not an individual, but a complex of elements, some of which are material (_rūpa_) and gross --- the visible body --- some of which are material and subtle --- the organs properly so-called --- some of which are non-material (_arūpin_) --- the states of consciousness, feeling, naming, will, cognition. Man is made of these elements (_skandhas_)*; he is a compound; and no compound can be an individual, a being.
+
+This position, denial of any entity --- a soul --- "which gives unity and permanence to what we call the individual," is to be justified by intricate speculations, both in the East, with the Buddhists, and in the West, with our modern psychologists. But it is very simple in itself, and was made intelligible to any one by similes.
+
+*) For technical definitions see _Abhidharmakośa_ 3 and Mrs. Rhys Davids, _Psychology_, 1914, p. 40 foll.
+
+The best known is the simile of the chariot; it is referred to in our oldest documents (Saṃyutta), and it is explained at length in the 'Questions of King Milinda' (Milindapañha), a collection of dialogues between a Buddhist sage, Nāgasena, and the King Menander, one of the successors of Alexander in the Far East, sovereign of North West India in the second century BCE. There are some reasons to believe that this _enfant perdu_ of Hellenism was converted to Buddhism; and his conversion began as follows: 
+
+Milinda asks: "What is your name?"
+
+"I am known as Nāgasena; but Nāgasena is only a term, appellation, designation, mere name, mere empty sound, for there an individual does not exist."
+
+"But," says Milinda, "if the individual does not exist, who is it then who furnishes you monks with robes, food and so on? Who is it who keeps the precepts of Buddha? Who is it who abandons these precepts and commits sin? In that case, if there is no individual, there is no merit, no demerit; neither is he a murderer who kills a monk, nor can you, monks, have any teacher or preceptor or ordination. Do answer me, are not your nails, teeth, skin, flesh Nāgasena? are not your body, feelings, sensations, volitions, cognitions Nāgasena?"
+
+Nāgasena answers in the negative and Milinda concludes: "You speak a falsehood, a lie"; for, when one speaks of Nāgasena one has in view the body of Nāgasena: "Nāgasena is fat or tall," and the 'soul' of Nāgasena: "Nāgasena is wise, Nāgasena strives for Nirvāṇa."
+
+Milinda is now to be questioned in his turn: "You are of noble birth, prince, and if you walk in the middle of the day on hot sandy ground, it is very bad for your feet, your body and your mind. Pray, did you come on foot or in a chariot?" --- "I came in a chariot." --- "If you came in a chariot, explain to me what a chariot is. Is the pole the chariot?"
+
+Milinda confesses that neither the pole, nor the axle, nor the wheels, nor the frame, nor the yoke, nor any part of the chariot is the chariot; and Nāgasena concludes: "When you said: 'I came in a chariot,' you spoke a falsehood, a lie; there is no chariot."*
+
+*) _Milinda_, p. 25; Rhys Davids, 1. (_S. B. E._ 35.), p. 40; Warren, _Buddhism in translations_, p. 129; E. J. Thomas, _Buddhist Scriptures_ (Wisdom of the East Series), p. 118.
+
+For, as it is said elsewhere:
+
+Just as the word 'chariot' is but a mode of expression for axle, wheels, and other constituent members, placed in a certain relation to each other; but, when we come to examine the members one by one, we discover that, in an absolute sense, there is no chariot; just as the words 'house,' 'fist,' 'lute,' 'army,' 'city,' 'tree,' are only modes of expression for collections of certain things disposed in a certain manner, in exactly the same way, the words 'living being' and 'ego' are only modes of expression for a complex of bodily and non-bodily constituents.*
+
+*) _Visuddhimagga_, apud Warren, p. 133.
+
+The problem of the whole and the parts (_avayava, avayavin_) has been, in India, the topic of long and abstruse discussions. The Buddhists maintain that the whole is only an _être de raison_; their opponents are as clever as they are. That this problem is a real one, not a mere logomachy, is made clear by the following remark which well summarizes Nāgasena's thought: "If you infer an entity behind an individual man, you must also logically infer it behind every individual thing, such as a chariot. Buddhists reject both entities, and Plato equally logically accepts both," when he recognizes in a bed "the existence of some one Form, which includes the numerous particular things to which we apply the same name" (_Rep._ 10.).*
+
+*) E. J. Thomas, _Buddhist Scriptures_, p. 119.
+
+But it may be urged that, among the constituents of the Self, there is a constituent which is likely to be the very Self: the mind or thought or consciousness, the thing that exerts itself, that keeps the memory of its feelings and exertions.
+
+Śākyamuni was well aware of this objection, and he scornfully rejects it.*
+
+*) _Saṃyutta_, 2., p. 94.
+
+Men, in general, even the non-Buddhists, willingly agree that this body, composed of the four elements, earth, water, air and fire, is not the Self; they easily divest themselves of passion for it: the increase and the wasting away of the body are manifest enough. "But that, O monks, which is called mind, thought, consciousness, here the non-Buddhist sees his own Self, and he is incapable of divesting himself of passion for it. Why do I say so? Because, from time immemorial, from the beginning of transmigration which is without beginning, the non-Buddhist has held, cherished and loved this notion: 'this is mine, this I am, this is my Self.' But it is less foolish to consider the body composed of the four elements as a Self, rather than the mind. Why do I say so? Because it is evident, O monks, that this body lasts for one year, for two, three, four, five, ten, twenty, thirty, forty, fifty years, lasts for a hundred years and even more. But that, O monks, which is called mind, thought, consciousness, keeps up an incessant round, by day and by night, of perishing as one thing and springing up as another."
+
+The conclusion that seems to be forced upon us has been vividly drawn by Rhys Davids*:
+
+Śākyamuni acknowledged the reality of the emotional and intellectual dispositions, but he refused absolutely to look upon them as a unity. The position is so absolute, so often insisted on, so fundamental to the right understanding of primitive Buddhism that it is essential there should be no mistake about it. Yet the position is also so original, so fundamentally opposed to what is usually understood as religious belief, both in India and elsewhere, that there is great temptation to attempt to find a loophole through which at least a covert or esoteric belief in a soul, and in the future life (that is of course of a soul), can be recognized, in some sort of way, as part of so widely accepted a religious system. There is no loophole, and the efforts to find one have always met with unswerving opposition both in the Scriptures (Piṭakas) themselves and in extra-canonical works.
+
+*) _Dialogues of the Buddha_, 1., p. 189.
+
+## 4\.
+
+Are we to admit this conclusion?
+
+If Man is a chariot, if there is no soul, there is no free will, no responsibility, no sin, no merit, no future life, no reward of actions in a future life. The remarks of Menander hold good. But it is an ascertained fact that, from the beginning, Buddhism waged an obstinate war against the materialists or unbelievers, the Nāstikas, that is, the philosophers who say: "It is not," who deny the reward of good actions and the punishment of bad ones in a future life.
+
+We shall see* that these unbelievers were numerous at the time of Śākyamuni --- an epoch of philosophic analysis --- and that Śākyamuni, who is as a rule described as a denier of soul, may be more exactly described as a strong maintainer of responsibility and future life. He said:
+
+To say that Man, when the body dissolves, is cut off, perishes, does not exist any longer, that is heresy, heretical belief, heretical jungle, heretical wilderness.
+
+*) See below, p. 61.
+
+It is more than a heresy; it is the heresy; it is what is called technically 'wrong view' (_mithyādṛṣṭi_), the most dangerous and wicked among human errors and sins* as it is destructive of all morality, and precipitates the unbeliever into hell: "You say that there is no future life. Well! the executioners of Yama, the king and the judge of the dead, will soon change your opinion on the matter."
+
+*) To believe in a Self is a heresy (_dṛṣṭi_), the _śāśvata-_ or _satkāyadṛṣṭi_; but is not a sin. Heresy prevents the acquisition of holiness and of Nirvāṇa, but does not prevent the acquisition of merit. A believer in the Self may be reborn as a god and even as Brahmā. On the contrary, the denial of the reward of actions in a future life is a sin, just as murder, theft, etc.
+
+So much for the dogmatic evidences.
+
+On the other hand, the texts which affirm the reward of actions, and the personal character of this reward, are innumerable. There are hundreds of Birth stories, Jātakas, legendary and moral tales, stories of the days of yore: all end in the same stereotyped sentences with the so-called identification of the characters: "What do you think, O monks? --- says Buddha --- I was then the wise white elephant, Devadatta was the wicked hunter."
+
+Elsewhere:
+
+Ānanda --- the beloved disciple --- has committed such an act. Who will enjoy the fruit of this act but Ānanda?
+
+But the most emphatic affirmation of the 
+
+personality of reward is perhaps to be found in the beautiful text (Devadūtasutta) which narrates the meeting of the sinner with Yama*:
+
+*) _Aṅguttara_, 1., p. 138 (Warren, p. 255).
+
+Have you, O man, when you reached old age, thought within yourself: 'I am subject... to death; well, then! I will do good in thought, word and deed'?... These your evil deeds your mother has not done, nor your father, nor your brother, nor your sister, nor your friends and advisers, nor your connexions and blood relatives, nor ascetics, nor Brahmans, nor gods. It is you alone who have done these evil deeds; you alone will enjoy their fruit.
+
+## 5\.
+
+Here is a riddle. Here is a flagrant contradiction. On the one hand, the texts we have quoted and a large number of texts to the same effect --- on the composite nature of Man; on the chariot-like character of Man; on the origination of consciousness, a mere sensationalism --- force upon us the conclusion that there is no Self. On the other hand, we cannot doubt for a moment that actions are rewarded in a future life. The very text (above p. 43) which emphasizes the mobility and the unsubstantiality of 'what is called mind, thought, consciousness' explains that Man looks upon his mind, thought and consciousness as a Self, because, from the beginning of ages, he is accustomed to cherish his mind, thought and consciousness, as his Self.
+
 ...
