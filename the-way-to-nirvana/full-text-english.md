@@ -10,6 +10,36 @@
 
 ---
 
+# [Preface.]()
+
+# [Chapter 1. Indian Disciplines of Salvation.]()
+
+## [1.]()
+
+## [2.]()
+
+## [3.]()
+
+# [Chapter 2. The Buddhist Soul.]()
+
+## [1.]()
+
+## [2.]()
+
+## [3.]()
+
+## [4.]()
+
+## [5.]()
+
+## [6.]()
+
+# [Chapter 3. Buddhist Definition of Karman.]()
+
+## [1.]()
+
+## [2.]()
+
 ---
 
 À mes collègues Paul Frederico et Henri Pirenne en témoignage de respect et d'affection.
