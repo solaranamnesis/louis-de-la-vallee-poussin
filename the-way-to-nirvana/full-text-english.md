@@ -40,6 +40,14 @@
 
 ## [2.]()
 
+## [3.]()
+
+## [4.]()
+
+# [Chapter 4. The Doctrine of Karman and Transmigration, Cosmogony, Theogony.]()
+
+## [1.]()
+
 ---
 
 À mes collègues Paul Frederico et Henri Pirenne en témoignage de respect et d'affection.
