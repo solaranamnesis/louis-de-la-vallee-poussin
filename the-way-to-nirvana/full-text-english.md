@@ -10,9 +10,9 @@
 
 ---
 
-# [Preface.]()
+# [Preface.](#preface-1)
 
-# [Chapter 1. Indian Disciplines of Salvation.]()
+# [Chapter 1. Indian Disciplines of Salvation.](#chapter-1-indian-disciplines-of-salvation-1)
 
 ## [1.]()
 
@@ -20,7 +20,7 @@
 
 ## [3.]()
 
-# [Chapter 2. The Buddhist Soul.]()
+# [Chapter 2. The Buddhist Soul.](#chapter-2-the-buddhist-soul-1)
 
 ## [1.]()
 
@@ -34,7 +34,7 @@
 
 ## [6.]()
 
-# [Chapter 3. Buddhist Definition of Karman.]()
+# [Chapter 3. Buddhist Definition of Karman.](#chapter-3-buddhist-definition-of-karman-1)
 
 ## [1.]()
 
@@ -44,7 +44,7 @@
 
 ## [4.]()
 
-# [Chapter 4. The Doctrine of Karman and Transmigration, Cosmogony, Theogony.]()
+# [Chapter 4. The Doctrine of Karman and Transmigration, Cosmogony, Theogony.](#chapter-4-the-doctrine-of-karman-and-transmigration-cosmogony-theogony-1)
 
 ## [1.]()
 
