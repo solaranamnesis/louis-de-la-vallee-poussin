@@ -564,4 +564,74 @@ While emphasizing the all-importance of volition. Buddhism does not minimize the
 
 A point of the later scholasticism is worth mentioning. While a pure volition only leaves traces (_vāsanā_) in the series of thoughts, bodily and verbal actions --- which are corporeal and material --- create a thing of a particular nature, semi-material (_rūpa_) and semi-spiritual, which is called 'action,' although it is really a result of action. Scholastics name it _avijñapti_. Once produced by a voluntary verbal or bodily action (_vijñapti_), the _avijñapti_ exists and develops of its own accord, without the agency of thought, whether a man is waking, sleeping or absorbed in contemplation.
 
+The idea which gave rise to the conception of _avijñapti_ is clear enough. A man who has taken the vows (_saṃvara_) of the religious life by a solemn declaration (_vijñapti_) --- a verbal action --- is not a man like others. He has engaged himself to avoid certain actions, killing, stealing, etc., during his life-time. He is not always pondering over this engagement during sleep or at any other time; nevertheless as long as he has not formally given up his vows or committed an action contrary to his vows, he remains a man who has taken the vows, literally 'who is restrained (_saṃvṛta_)'; his avoidance of sinful actions is another thing than the casual avoidance of sinful actions by a man who has taken no vows.
+
+An action, to be 'complete' and really 'fruitful,' apt to 'ripen,' must consist of three parts: _1._ the preparation, that is the first volition and all the contrivances necessary to the so-called 'principal action.' For instance, a butcher arises, takes some money, goes to the market, buys a goat, has the knife in his hand; _2._ the principal action: the killing of the goat, the actual death-dealing blow; _3._ the 'back' of the principal action: the cutting up and selling of the meat, etc.
+
+The Buddhist theory of confession is based upon these considerations. The moral benefit or merit (_puṇya_) of a gift is totally or almost totally lost for the giver if he regrets his generosity; in the same way a sin is not done, it is only half done, if one regrets one's sin. Confession, as it is practised by the Buddhist monks, is not a sacramental rite; it is an expression of repentance, an affirmation: "I will not do it again," and also the accomplishment of one of the vows of a monk: "I will not tell lies." Confession does not destroy sin; but it is the intention of concealing sin that makes sin 'complete.'
+
+## 4\.
+
+According to the Buddhists, the only action (_karman_) is volition and intentional word and deed; further action, to be complete, must be 'prepared' --- not casual or impulsive --- and 'backed up,' approved of afterwards, not counteracted by repentance.
+
+It must be added that Buddhists lay all the stress on the morality of actions, and in this was a marked progress.
+
+Morality, of course, was not unknown in ancient India; but, to say the least, the ideas were somewhat confused by ritual prejudices. In Buddhism, all the intricate fabric of the rites of purification and of sacrifice falls to the ground. Whereas it was thought that Indra, King of the gods, had obtained his sovereignty through a hundred sacrifices (hence his name, Śatakratu), Buddhists believe that sacrifice is of no avail, that sacrificial murder is a murder. Whereas austerities and purifications of many kinds were deemed necessary, Buddhists condemn them as so many superstitions (_śīlavrata_). In the same way they abandon the most pious among the pious works of yore, gifts to the dead, funeral rites: the monks took no care of the funeral of Śākyamuni himself.
+
+Morality alone makes the value of an act.
+
+The fact has often been emphasized that the Buddhist rule of morality is, or seems to be, a purely negative one: to avoid the ten sins. "Do not kill, do not take what is not given, do not indulge in illicit love," --- three bodily sins. "Do not use mischievous, rude, mendacious, foolish language," --- four verbal sins. "Do not cherish lust, hatred, wrong doctrines, especially the doctrine that there is annihilation at death," --- three mental sins.
+
+A layman has to accept this tenfold discipline or restraint (_saṃvara_) to be admitted as a 'devotee' (_upāsaka_). Monks take a more strict discipline: for instance, they renounce not only illicit love, but also marriage; but the negative character of their morality (_bhikṣutā_) is the same as it is for laymen.
+
+Are we to conclude that positive morality, altruism or love, is foreign to the Buddhist ideal of conduct? As is well known, scholars disagree. R. Pischel, following Taine, has maintained that love of one's neighbour is the leading motive of Buddhism.*
+
+*) Taine, _Nouveaux Essais_; Pischel, _Buddha_; Oldenberg, _Aus Indien und Iran_, and _Deutsche Rundschau_, 1908, 6., p. 380.
+
+It may be first observed that Indian philosophers have been from of old keen enough to understand that man has always in view his own interest, even when he seems to be the most generous and disinterested. They have discovered La Rochefoucauld long ago. "It is for the sake of Self that Man loves cattle, wife, sons or riches," says the Upaniṣad. And Śākyamuni comforts the king Prasenajit and his wife the queen Mallikā ('Jessamine'); this loving pair ashamed at discovering that each of them preferred his or her Self to anybody else: "I do not see," says Śākyamuni, "any living being in the three worlds who does not prefer his own Self to anything."*
+
+*) _Saṃyutta_, 1., p. 75.
+
+Self-love, self-love well understood,* governs all the actions of a Buddhist, whether monk or layman.
+
+*) _Saṃyutta_, 1., p. 71 (Warren, p. 216); _Jātaka_, 3., p. 279.
+
+The monk has arrived at a stage in the spiritual career when a purely egoist behaviour is necessary. The monk has not to practise good actions, --- such actions he has done in heaps in former births, --- he has only to avoid evil actions, to avoid any occasion of an evil action, to extinguish desire. His ideal is absence of desire, absence of action. The monk has broken natural and social bonds; he has no obligation towards his former wife, his former children.*
+
+*) Oldenberg, _Buddha_, tr. Foucher, p. 149.
+
+The case is quite different as concerns the layman. The layman has to acquire merit, he has to do positive acts of morality, good acts. "A good act is the act that benefits one's neighbour; a bad act, the act that harms one's neighbour."*
+
+*) The _Abhidharmakośa_ states that 'wrong view' (see above, p. 46) is a sin; then it proceeds to discuss this statement: "How can it be said that 'wrong view' is a sin since a good act is the act that benefits one's neighbour..."
+
+Such a dogmatical definition of good and evil is scarce, and as a rule the morality of acts is to be known by their fruits: "A good act is an act that ripens into a pleasurable existence; a bad act, an act that begets suffering." Proofs are innumerable that Buddhists recommend good acts of every description. A man who does not commit any sin will be reborn as a man, not as an inhabitant of hell, an animal or a ghost; but if this sinless person is wanting in positive meritorious actions, especially in giving, he will be reborn as a poor man. Whereas a generous man, who has indulged in some sin, will, it is true, pay for this sin by rebirth in an inferior state (hell, etc.); but he will also, after being released from the ties of sin, enjoy on this earth, as a rich man, or in heaven, as a god, the fruit of his gifts.
+
+Among meritorious actions, giving is the most fruitful. It may be interesting to state the principles of the valuation of the merit of giving.
+
+One must take into account:
+
+1\. The qualities of the giver, faith, morality learning, and his intention in giving: 'I give in order to receive in my turn,' 'I give because I have received,' 'I give because my parents and grand-parents were wont to give...'
+
+2\. The manner of giving: with respect, with the right hand, at the opportune moment.
+
+3\. The qualities of the object given, excellence in colour, smell, and so on. There is nevertheless an episode parallel to the widow's mite.
+
+4\. The qualities of the person who receives, that is, as Indians say, the 'field' (_kṣetra_) on which the gift is poured. Much depends, in Buddhism and in Brahmanism, on the fertility of the field. Our sources distinguish _a._ the excellence in relation to the kind of existence: a gift to a wicked man has a hundred times the value of a gift to an animal; _b._ the excellence due to suffering: gifts to the poor and to the sick are especially productive of fruit; _c._ the excellence due to services received: our parents are our benefactors and have a right to our gifts; the preacher, who teaches us the Buddhist doctrine, gives us a second birth, better than the first; _d._ last not least, the excellence due to qualities, morality, knowledge, in a word to sanctity. Buddhists are not as jealous as the Brahmans, and Śākyamuni extols the gifts made to the ascetics of the rival sects. But a Buddhist monk is evidently a better 'field' than a heretic. A gift to a Buddha, small as it may be, is very good indeed.
+
+The gift given by a man who does not care for reward, who gives in order to free himself from greed, who understands fully the Buddhist doctrine, --- that is, who knows the unsubstantiality (_nairātmya_) of the giver, of the gift and of the receiver, --- that is the best gift.
+
+The confusion of 'good' (_kuśala_) and 'meritorious,' 'bearing a pleasant fruit' (_puṇya_), which seems to be one of the consequences of the doctrine of Karman as understood by the Buddhists, leads to some results that are not perfectly sound. For instance, a man will abandon secular life in order to be reborn as a god and to enjoy pleasures incomparably greater than the pleasures of human life. The story of Nanda is a good illustration of this case: once this relative of Śākyamuni realizes that his wife cannot vie with the celestial damsels --- just as the female apes cannot vie with his wife --- he becomes a monk, for he will obtain, through actual continence, sensual pleasures of the highest degree.*
+
+*) Aśvaghoṣa's _Saundaranandakāvya_, partial translation by A. Baston, _J. As._ 1912, 1., p. 79.
+
+An action is good when it does not aim at immediate (_aihika_) ends, when it is made in order to obtain reward in a future life; it is bad when it aims at an immediate end, viz. pleasure in this life. This rule, practically a golden rule, is possibly a little too empirical. But to appreciate it without prejudices, we must remember, first, that a system of morals is not to be estimated from the details of casuistry, and, second, that the true Buddhist is the man who does not care for merit or reward, but who strives for Nirvāṇa.
+
+# Chapter 4. The Doctrine of Karman and Transmigration, Cosmogony, Theogony.
+
+1\. Mechanism of transmigration. 2. Classification of actions and mechanism of their fructification. 3. Destiny, free-will, solidarity. 4. Cosmogony. 5. Theogony.
+
+## 1\.
+
+The Buddhists did not discover the notion of Karman, but they were amongst the first to emphasize its importance, and probably the first to understand clearly its nature. It remains to be seen how the doctrine of Karman provides them with a rationalistic theory of the soul as a transmigrating non-entity, with a theory of cosmogony, or creation of the world, and of theogony, or origin of the gods.
+
 ...
