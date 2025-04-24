@@ -60,6 +60,10 @@
 
 ## [1.]()
 
+## [2.]()
+
+## [3.]()
+
 ---
 
 À mes collègues Paul Frederico et Henri Pirenne en témoignage de respect et d'affection.
@@ -885,5 +889,147 @@ There was a monk indulging, against the teaching of the Master, in cosmological 
 ## 1\.
 
 Older Buddhism, more accurately the Buddhism of the old Books, is almost exclusively a discipline of deliverance, deliverance from rebirth and death, deliverance from transmigration. Like the other disciplines of deliverance, the doctrine of the Upaniṣads or the Sāṃkhya, it is founded on pessimism.
+
+Indian or Buddhist pessimism is often looked upon as a natural consequence of the belief in transmigration. Much has been written on this subject --- sometimes perhaps 'unintelligently,' as E. J. Thomas rather strongly asserts.* India as a whole has never been, as it were, hallucinated by the idea of rebirth and death. Common religious people dreamt of paradises, of eternal paradises; and there has been, from the beginning, side by side with the Buddhist discipline of salvation, a Buddhist religion, a moralized Hinduism. The doctrine of transmigration itself opens out cheerful possibilities: rebirth does not necessarily mean rebirth as a creature of hell, as an animal, a ghost, a miserable man. The Śatapathabrāhmaṇa expressly states that rebirth in this world is a reward. The so-called 'bad states' (_durgati_) are not without their own satisfactions: to be a serpent or a ghost 'endowed with a great magical power' is after all not despicable. But the most striking evidence that transmigration did not frighten the Buddhist monks is that they have built a number of heavens, fit for any temperament: enjoyable and meditative heavens. They know, better than the Brahmans themselves do, the path that leads to the heaven of Brahmā! In a word, Transmigration is death again and again, but it is also inexhaustible life.
+
+*) _Buddhist Scriptures_, p. 20.
+
+But there were in the days of Śākyamuni many men to whom the very idea of death proved intolerable. Why, owing to what climatic, racial, social circumstances it is so, is and will remain a mystery. But the fact is beyond doubt, and it is well illustrated by the importance given, in the old Buddhist Literature, to this simple statement, which looks like a great discovery: "Life indeed ends in death."*
+
+*) It may be remarked in passing that this sentence seemed to the first translators to be really too simple, and, through a wrong separation of the words, they turned it into: "Life indeed is death" (_Dhp._ 148; _Saṃ._ 1., p. 97).
+
+Śākyamuni teaches that the ocean is not large and deep enough to contain the tears which through millions of existences fill the eyes of one man; he comforts a mother who had just burnt on the funeral pyre her daughter ironically named Jīvā, Life, by telling her that she had already burnt, thousands of times, in the same burning place, the same daughter.
+
+There is no happiness in life:
+
+Then I asked them: "Can you maintain that you yourselves for a whole night, or for a whole day, or even for half a night or day, have been perfectly happy?" And they answered "No."
+
+Buddhists go so far as to deny that _suṣupti_, the profound sleep praised in the Upaniṣads, is free from suffering; they would refuse to the Great King the few hours of rest which the Socrates of the Apologia is willing to concede to him.
+
+Then I said to them: "Do you know a way, or a method, by which you can reahze a state that is altogether happy?" And still to that question, they answered "No."*
+
+*) _Dialogues of the Buddha_, 1., p. 287.
+
+In a word, there were many, men and women, old and young, noblemen and outcasts, merchants and robbers, who had learnt to despise the trivial joys of existence, who wished for absolute happiness and despaired of reaching it. Deliverance from rebirth seemed to them a goal for which it was worth while to strive.
+
+Deliverance, or Nirvāṇa, is the central idea of the teaching of Śākyamuni and the _raison d'être_ of the religious life:
+
+"As the vast ocean, O monks, is impregnated with one flavour, the flavour of salt, so also, O monks, this my Law and Discipline is impregnated with but one flavour, with the flavour of deliverance."*
+
+*) _Cullavagga_, 9., 1., 4.
+
+It seems therefore that we should be amply provided with definitions of Nirvāṇa and that there should be no doubt as to the actual meaning of this word.
+
+As a matter of fact, we know what Nirvāṇa is as well as the Buddhists themselves, and it is not our fault if we are not able to give an unambiguous statement. The Buddhists were satisfied with descriptions which do not satisfy us.
+
+On the one hand, whereas we have been for centuries trained to make our ideas clear, this was not the case with Indians. The historian has not to deal with Latin notions worked out by sober and clear-sighted thinkers, but with Indian 'philosophumena' concocted by the ascetics whom we shall describe presently: men exhausted by a severe diet and often stupefied by the practice of ecstasy. Indians do not make a clear distinction between facts and ideas, between ideas and words; they have never clearly recognized the principle of contradiction.
+
+Buddhist dialectic has a four-branched dilemma: Nirvāṇa is existence, or non-existence, or both existence and non-existence, or neither existence nor non-existence. We are helpless.
+
+We are prepared to admit that there may be degrees in 'being,' pleroma and kenosis. But our logical categories are not numerous enough for a theory of degrees in 'voidness' or non-existence as Mātṛceṭa states it:
+
+Others than Buddha have won the same liberation or Nirvāṇa, but in Buddha the superiority is altogether great. All the liberated are void, but this leaves room for the superiority of Buddha: the void of a pore of the skin compares but poorly with the large void of the sky.*
+
+*) _Varṇanārhavarṇana_, 1., 10-11, ed. F. W. Thomas, _Indian Antiquary_, 1905, p. 145, Hoernle's _Manuscript Remains_, 1., p. 78.
+
+Moreover, we look at the Buddhist doctrines from the outside. Whereas Nirvāṇa is for us --- _pace_ the neo-Buddhists --- a mere object of archæological interest, it is for Buddhists of paramount practical importance. Our task is to study what Nirvāṇa may be; the task of a Buddhist is to reach Nirvāṇa.
+
+Comparisons are misleading; but the _Imitatio Christi_ may be quoted: "What avails the understanding of the holy Trinity, if we displease the Trinity?" We have to please God, not to realize the nature of God. Rather in the same way, Śākyamuni prohibited discussion concerning Nirvāṇa. For a Buddhist, the important thing is, not to know what Nirvāṇa is, but to reach Nirvāṇa; and inquiry concerning Nirvāṇa may prove disastrous. As historical students, our only danger is to make mistakes, and we can afford it.
+
+## 2\.
+
+The primitive meaning of this celebrated word, Nirvāṇa, seems to be twofold: on the one hand, 'becoming cool, cooling'; on the other hand, 'blowing out,' 'extinguishing.' There is a _nirvāṇa_ of a man who is thirsty as well as of a candle.*
+
+*) See art. 'Nirvāṇa,' in Hastings, _E. R. E._
+
+Hence two directions in the evolution of the religious or philosophical meaning of the word. Cooling, refreshment, the refreshment of a man who is suffering, the cooling of a man who is hot with desire, comfort, peace, serenity, bliss. Also extinction, detachment or extinction of the fire of the passions, negative bliss or extinction of suffering, annihilation or extinction of individual existence.
+
+Each metaphor is apt to convey two distinct idea.
+
+On the one hand, Nirvāṇa is Sanctity (_arhattva_). For a Saint (_arhat_) has become cold (_śītībhūta_), as he is no more burned by the fire of passions, and he has extinguished this fire.
+
+On the other hand, Nirvāṇa is the ultimate end of a man, the state of a Saint after death. For Nirvāṇa may be cooling of suffering --- an eternal refreshment --- or extinction of existence.
+
+In the Pāli literature, it is not always evident whether the word Nirvāṇa (_nibbāna_), with its numerous synonyms, means Sanctity, the state of a living Saint, or the state of a Saint after death. The first meaning is the more common. On the other hand, in the Sanskrit literature of Buddhism, Nirvāṇa generally means the state of a Saint after death. We will use the word Nirvāṇa in this last meaning and style Sanctity the state of a living Saint.
+
+Two points are beyond doubt:
+
+1\. Nirvāṇa is the _summum bonum_.
+
+2\. Nirvāṇa belongs to Saints and to Saints alone.
+
+Let us consider the death of an ordinary man and the death of a Saint. Men who at death are endowed with desire and who have not destroyed their ancient Karman, have to be reborn according to their merit and demerit. They continue transmigrating. A Saint has not to be reborn; he has passed beyond birth, old age and death; in the technical phrase: "He has destroyed rebirth; he has led the religious life; he has done what he had to do; he has nothing more to do with life here."*
+
+*) There are, in the Pāli scriptures, two formulas. The first one, which we believe is the earlier, is translated above, _nāparam itthatāya_; it points out that the Saint is not to be reborn in this world. The second one, _n'atthi tassa punabbhavo_, states that the Saint is not to be reborn. In the Sanskrit canon, the first formula is worded as follows: _nāparam asmād bhavāt prajānāmi_; also a clear and definite negation of rebirth.
+
+So much is certain.
+
+But it can be maintained either _1._ that the dead Saint is annihilated, cut off, does not exist any longer; or _2._ that he has reached an immortal state; or _3._ that we can only assert, without being able to state positively what deliverance is, that he is delivered from transmigration.
+
+In other words, Nirvāṇa is either annihilation, or immortality, or 'unqualified deliverance,' a deliverance of which we have no right to predicate anything.
+
+It is fairly certain that, from the beginning, there have been Buddhists who held one of these three opinions. The point is to realize the relative importance of these conflicting views, and to state which is the prevailing teaching of the Scriptures and the ruling idea of the Buddhist religious life.
+
+## 3\.
+
+That Nirvāṇa is annihilation results --- at least for us --- both from the general principles of Buddhist philosophy and from clear statements.
+
+There is nothing permanent in Man. Man is a complex of bodily and spiritual constituents which form a physico-psychical organism. In the case of men who are not Saints, this organism is not cut off at death when the body perishes, because, owing to desire and to Karman, it is continued in a new organism, heir of the first. Now suppose that --- as is the case of a dying Saint --- desire is destroyed and Karman to be experienced (_vedanīya_) absent, there is no cause for rebirth. There will not be a new complex of bodily and spiritual constituents to be reborn when a Saint dies. And there is no existence possible outside these constituents: the Buddhist criticism has sedulously destroyed all the mystical or psychological _data_ --- idea of a transcendent soul (Sāṃkhya), idea of an immanent absolute (Upaniṣads, Vedānta) --- that could give any support to a conception of survival of whatever kind. Selflessness precludes all possibility of survival.
+
+Moreover it is certain that the Buddhists --- I mean the Buddhists who compiled the Scriptures --- were well aware of this consequence of the dogma of Selflessness. When the question is discussed of the survival of the Saint, the answer is often --- often, not always --- in the terms we have just stated: "Any matter or body (_rūpa_) which could be said to be the matter or the body of the Saint no longer exists," and so on with the immaterial (_arūpin_) constituents of the human organism: "Any cognition whatever which could be said to be a cognition of the Saint no longer exists." Elsewhere: "Henceforth, when I shall be asked whether a Saint perishes at death or not, I shall answer: Body is perishable."*
+
+*) _Saṃyutta_, 4., 374, and elsewhere.
+
+It cannot be said that there is a chariot where there is neither pole, nor axle, nor any of the constituent parts of the chariot. In the same way, there is no Saint where there are not the elements which constitute this pseudo-individuality called a Saint.*
+
+*) The Yamaka dialogue (_Saṃyutta_, 3., p. 109, see the translation of Warren, p. 138, of Oldenberg, tr. Foucher, p. 279) is not, as Oldenberg believes, an evidence against the doctrine of annihilation. On the contrary _Udāna_, 8., 3 (_Itivuttaka_, § 43), which Oldenberg understands in the meaning of annihilation, is by no means clear.
+
+It may therefore be safely maintained that Nirvāṇa is annihilation.
+
+Does that imply that Buddhists aim at annihilation? Not exactly so. Scholars who have maintained that Nirvāṇa was chiefly looked upon as annihilation do not say that a monk leads the religious life in order to be annihilated at death, but that he leads the religious life in order to become a Saint. Sanctity is the goal. Sanctity is the _summum bonum_, deliverance, Nirvāṇa.
+
+In the words of Rhys Davids,* the deliverance Śākyamuni preaches is "a salvation from the sorrows of life, which has to be reached here on earth in a changed state of mind." The hope of a monk is to obtain "a lasting state of happiness and peace to be reached here on earth by the extinction of the fire of lust, hatred and delusion." 'A lasting state of happiness...' from the moment when Sanctity is attained to the hour of death. Buddhism would thus be only a discipline of happy life here below.
+
+*) _Manual_ (1877), pp. 110-115; _Hibbert Lectures_ (1881), pp. 161, 253; compare Childers (1875), p. 208.
+
+Our opinion is that these statements are very wide of the mark. But it is only fair to admit that much may be said in their favour and that they are to some extent exact. We must honestly admit that Sanctity --- coupled with annihilation --- may have been and has been, for many a monk, the ruling motive of the religious life.
+
+According to the philosophical tenets of Buddhism --- strictly understood --- on the one hand, transmigration is pain; on the other hand, the Saint, at death, does not exist any longer. The life after death having lost any interest for the Buddhist, he had only to work out a supreme ideal of happiness in this very life. That he did. It is a professional happiness. The monks, technicians of Sanctity --- that is, absolute detachment, mental and moral apathy --- were apt to make Sanctity the chief point of a discipline of their own. _Ils n'étaient pas Hindous pour rien._
+
+India has always been full of awe and admiration for the ascetics and ecstatics who have reached a thorough tranquillity, a perfect ἀταραξία, insensible to pleasure and to pain and therefore altogether happy. Such men were a natural product of the Indian soil. They have been the pattern of Brahman and Buddhist Sanctity.
+
+The Brahmans have worked out a metaphysical interpretation of the ecstatic Saint. They style him a _jīvanmukta_, 'delivered yet living,' and assert that he is actually identified with Brahman, that is to say with the immanent Absolute.
+
+The Buddhists have as a starting point the same type of Saint; but they do not attempt any metaphysical interpretation. They are satisfied with a study of the psychological ascertained facts. To put it shortly, the Buddhist Saint is plunged in the concentration 'where notion and feeling are destroyed.'
+
+While dwelling in concentration, the Saint is happy. When he, sometimes, opens his eyes to the spectacle of the world, he is also happy. He contemplates from the shores of the island of serenity the painful agitations of men: he is free, they are fettered by desire. He enjoys one of the most delicate pleasures in this life, the pleasure of self-complacence coupled with altruism. He says, in the style of the Lucretian sage:
+
+The wise, climbing the terraced heights of wisdom looks down upon the fools; serene he looks upon the toiling crowd, as one who stands on a mountain looks down upon those that stand upon the plain.*
+
+*) _Dhammapada_, 28.
+
+A sublime pattern of this serene happiness was afforded by Śākyamuni. A halo of mystery is not wanting. Neophytes long for such a happiness, for such a perfection. To become like Śākyamuni is no mean ideal.
+
+It may be urged that Sanctity being its own reward and ending in annihilation is not a cheerful prospect.
+
+But scholars who identify Nirvāṇa with annihilation would say:
+
+1\. Annihilation is the end of the misery of life, and Buddhists are pessimists, Buddhists are sick of existence.*
+
+*) Milton's lines are not Buddhistic:  
+For who would lose, though full of pain, this being,  
+These thoughts that wander through eternity?
+
+2\. Indian philosophers, as a rule, do not attach much importance to the survival of personal consciousness, which is for us a necessary characteristic of survival, or rather is the survival itself. With the strict Vedāntists, Nirvāṇa (_brahmanirvāṇa_) is the end of the illusion of individuality; with the Śāṃkhyas, Nirvāṇa is the eternal isolation (_kaivalya_) of the soul, eternal unconsciousness. Therefore, when a Buddhist admits that Nirvāṇa is annihilation, he only goes a step further.
+
+Again a man works out his ideal of happiness after death from the pattern of his ideal of happiness here below. According to the Buddhist and Indian standard, the supreme happiness for a living man is to reach and to dwell in the concentration 'where feeling and notion are destroyed.' As a matter of fact, annihilation (_uccheda, nirodha_) is this happy state of concentration continued for eternity. Therefore annihilation is a state and a happy state.
+
+3\. Nevertheless Indian ascetics were men; and men long for immortality, not immortal death, but immortal life. There was however a means, an excellent means of gratifying the needs of the heart while maintaining the dogma of annihilation.
+
+Death has nothing awful for young people, who have the whole of life before them, who do not realize that "Life indeed ends in death." In the same way, annihilation in Nirvāṇa will be easily accepted if Nirvāṇa is 'postponed.'
+
+The monk may be given some existences to reach Nirvāṇa.
+
+At the beginning, almost all the disciples of Śākyamuni became Saints, to be extinguished at death: but soon a new theory was framed according to which the state of a Saint requires more than a life-long exercise and, therefore, is to be realized by steps. There are disciples on the road to Sanctity to whom seven or less numerous new existences, human or celestial, are allowed to complete their sanctification.
 
 ...
