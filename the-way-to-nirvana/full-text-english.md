@@ -56,7 +56,7 @@
 
 ## [5.]()
 
-# [Chapter 5. Nirvāṇa.]()
+# [Chapter 5. Nirvāṇa.](#chapter-5-nirvāṇa-1)
 
 ## [1.]()
 
