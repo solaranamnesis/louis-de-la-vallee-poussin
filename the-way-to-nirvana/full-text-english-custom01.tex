@@ -1,0 +1,114 @@
+\documentclass[a4paper, 11pt, oneside, english, landscape]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{gfsneohellenic}
+% Load encoding definitions (after font package)
+\usepackage[dvipsnames]{xcolor}
+\usepackage{eso-pic,graphicx}
+\usepackage[top=39mm, bottom=39mm, outer=79mm, inner=79mm]{geometry}
+\setlength{\columnsep}{90pt}
+\usepackage{textalpha}
+\usepackage{bbding}
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily}
+\usepackage{bbding}
+\usepackage{listings}
+% Babel package:
+% With XeTeX$\$LuaTeX, load fontspec after babel to use Unicode
+% fonts for Latin script and LGR for Greek:
+\ifdefined\luatexversion \usepackage{fontspec}\fi
+\ifdefined\XeTeXrevision \usepackage{fontspec}\fi
+
+% ```Lipsiakos"' italic font `cbleipzig`:
+\newcommand*{\lishape}{\fontencoding{LGR}\fontfamily{cmr}%
+		 \fontshape{li}\selectfont}
+\DeclareTextFontCommand{\textli}{\lishape}
+\usepackage{booktabs}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\graphicspath{ {./ } }
+\usepackage[figurename=]{caption}
+\usepackage{float}
+\usepackage{microtype}
+\setlength{\emergencystretch}{15pt}
+\usepackage{sectsty}
+\usepackage[titles]{tocloft}
+
+\sectionfont{\Large}
+\subsectionfont{\large}
+
+\usepackage{setspace}
+\onehalfspacing
+% change color of text, example replace all \color{Goldenrod} with \color{lightgray}
+
+\makeatletter % change only the display of \thepage, but not \thepage itself:
+\patchcmd{\ps@plain}{\thepage}{\bfseries\large\color{Black}{\thepage}}{}{}
+\makeatother
+
+\color{Black}
+
+\begin{document}
+\renewcommand{\thefigure}{{\bfseries\arabic{figure}}}
+\renewcommand\thefootnote{\tiny{\arabic{footnote}}}
+\let\oldfootnote\footnote
+    \renewcommand{\footnote}[1]{\oldfootnote{\bfseries\footnotesize#1}}
+    
+\bfseries
+\pagestyle{plain} % after changing a pagestyle command, it's necessary to invoke it explicitly
+\AddToShipoutPictureBG{\includegraphics[width=\paperwidth,height=\paperheight]{buddhafeet3.jpeg}}
+\begin{titlepage} % Suppresses headers and footers on the title page
+	\centering % Centre everything on the title page
+	%\scshape % Use small caps for all text on the title page
+
+	%------------------------------------------------
+	%	Title
+	%------------------------------------------------
+
+	\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick horizontal rule
+	\rule{\textwidth}{0.4pt} % Thin horizontal rule
+	
+	\vspace{0.5\baselineskip} % Whitespace above the title
+	
+	{\scshape\Huge The Way to Nirvāṇa}
+	
+	\vspace{0.5\baselineskip} % Whitespace above the title
+
+	\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal rule
+	\rule{\textwidth}{1.6pt} % Thick horizontal rule
+	
+	\vspace{0.5\baselineskip} % Whitespace after the title block
+	
+	%------------------------------------------------
+	%	Subtitle
+	%------------------------------------------------
+	
+	{\scshape By Louis de La Vallée Poussin\\\small Professeur à l'Université de Gand}
+ 
+        \vspace{0.25\baselineskip}
+		
+        {\scshape \scriptsize Six Lectures on Ancient Buddhism \\ as a Discipline of Salvation} % Subtitle or further description
+
+	%------------------------------------------------
+	%	Editor(s)
+	%------------------------------------------------
+        \vspace*{\fill}    
+
+	\vspace{0.5\baselineskip}
+
+	{\footnotesize\scshape Hibbert Lectures, Manchester College, Oxford, February --- April 1916}
+	
+	{\footnotesize\scshape{Cambridge: at the University Press --- 1917}}
+	
+	\vspace{0.25\baselineskip} % Whitespace after the title block
+
+        {\scshape\small Internet Archive Online Edition}% Publication year}
+    
+	{\scshape\footnotesize Attribution NonCommercial ShareAlike 4.0 International } % Publisher
+\end{titlepage}
+\setlength{\parskip}{1mm plus1mm minus1mm}
+\clearpage
+\tableofcontents
+\clearpage
+
+\clearpage
+\end{document}
