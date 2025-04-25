@@ -1032,4 +1032,218 @@ The monk may be given some existences to reach Nirvāṇa.
 
 At the beginning, almost all the disciples of Śākyamuni became Saints, to be extinguished at death: but soon a new theory was framed according to which the state of a Saint requires more than a life-long exercise and, therefore, is to be realized by steps. There are disciples on the road to Sanctity to whom seven or less numerous new existences, human or celestial, are allowed to complete their sanctification.
 
+It is worthy of notice that Brahmanism has built parallel theories of gradual salvation. Side by side with the 'merging in Brahman during this life' --- the only notion known in the earliest texts --- the Vedāntists instituted a discipline leading to deliverance by steps (_kramamukti_).
+
+The reasons of this new departure were certainly manifold. One was that Sanctity came to be looked upon as a difficult task. The other, and possibly the stronger, was that monks were really happy to postpone Nirvāṇa. A 'half saint' is sure to reach Nirvāṇa at the end and sure to enjoy pleasant rebirths on the way. His lot is a lucky lot indeed.
+
+Neo-Buddhism --- Mahāyāna --- went far in this direction. Nirvāṇa was relegated to a remote distance. According to the Lotus of the True Law, a man, to reach Nirvāṇa, has to become first a Buddha, and, to become a Buddha, thousands and thousands of strenuous and charitable lives are necessary. In this way, Buddhism succeeded in getting rid, if not of the very notion of Nirvāṇa, at least of Nirvāṇa as a practical ideal. The starting point of this change is to be found in the old theory of the steps to Sanctity.
+
+## 4\.
+
+The preceding remarks have done full justice to the views of Childers, Rhys Davids, Pischel and other scholars. But we do not believe that the definition they have given of the aim of the Buddhist religious life, viz. Sanctity coupled with annihilation, conveys _the_ right idea of Nirvāṇa.
+
+It is true that, according to the doctrinal tenets, _strictly_ understood, a Saint is annihilated at death. It is true that there are categorical statements to this effect, and Max Müller was wrong in denying that Nirvāṇa in the sense of annihilation is a dogma of Buddhism. It is a dogma of Buddhism. But Buddhism is not an orthodoxy, a coherent system of dogmas; it is rather a practical discipline, a training; and in this discipline, the notion 'Nirvāṇa-annihilation' is chiefly a result of philosophical inquiry and, therefore, a notion of secondary rank.
+
+This notion was not an 'original purpose' of Buddhism, a doctrine aimed at by Śākyamuni. Śākyamuni did not start with such a notion of the deliverance from birth, old age, death and suffering; this notion was forced upon him --- or upon the Church --- because be had been rash enough to deny the existence of a Self and to invent --- or to adopt --- the theory of a composite soul.
+
+This fact must be emphasized, for it seems to be important both for the history of Buddhism and the history of religion in general. Logic or dialectic is a dangerous auxiliary of religious thought: doctrines may be altogether reversed by the development of some dogma; certain premisses being accepted, conclusions will be as inevitable as destiny itself. But, when such conclusions are out of harmony with the general spirit of the doctrine, with the average temperament of the faithful, with common sense, either they fail to obtain general acceptance and beget only heresies and sects, or they remain mere theoretical and 'bookish' views, pure ideas, without becoming what the philosophers style 'idées-forces.'
+
+We have seen that the extreme consequence of the doctrine of Karman, "What we do is the result of what we have done," has not been admitted by the Buddhists, firm maintainers of Free-will despite their ontology, their psychology and their ethics. Many another instance, Indian or European, might be quoted. _1._ The conception of Being in the Upaniṣads and Vedānta logically ends in pure Monism (_advaita_); and Śaṃkara in fact is a pure monist, or tries to be a pure monist. But there are many Vedāntist schools which maintain a variety of 'qualified monisms' (_viśiṣṭādvaita_). _2._ The notions of predestination or absence of Free-will are easily, we do not say logically, developed from the dogma of God, creator and all-powerful. These notions found in Mahomedanism a favourable ground: they agree with the uncompromising and austere monotheism of Islam and with what is called 'oriental apathy.' While, in Christendom, they have been repeatedly developed only to be repeatedly checked.
+
+In the same way, or rather, somewhat in the same way, final annihilation was in Buddhism only a corollary of the denial of a Self, a result, not an object aimed at by Śākyamuni, not a postulate of the Indian mind, depressed as it may have been by the miseries of life, intoxicated as it may have been by philosophical meditations.
+
+In fact, there are evidences that would lead us to believe that Śākyamuni did his best to avoid this result, and even objected to a definite statement of such a result.
+
+These evidences are to be found in a number of texts which profess to state the position taken by Śākyamuni as concerns metaphysics, as concerns the existence of a soul (_jīva_) distinct from the body, as concerns the survival of a Saint. This position is a sort of agnosticism or pragmatism.
+
+Śākyamuni knows everything, but there are truths he refuses to reveal. The reason of his silence is that the knowledge of the truths which are not necessary to Sanctity is a dangerous knowledge; or that a man, and even a Saint, is not intelligent enough to grasp certain truths.
+
+That Śākyamuni knows everything, no Buddhist has ever doubted. One of the most celebrated titles of a Buddha is _sarvajña_, 'omniscient,' or with more precision, _sarvākārajña_, 'who knows everything as it is.' Buddhists believe that Śākyamuni, when he obtained _bodhi_, illumination or enlightenment, acquired universal knowledge. He does not know, at any moment, everything, because his knowledge, like all knowledge, consists of so many distinct and successive acts of attention (_manasikāra_), but he knows everything he desires to know. Śākyamuni, therefore, never says: "I do not know," but in some circumstances he says plainly: "You will not know, you shall not know."
+
+Here is a simile*:
+
+*) _Saṃyutta_, 5., p. 437; compare _Milinda_, p. 413; _Dīgha_, 2. p. 100.
+
+Śākyamuni was staying at Kauśambī in the grove of Aśoka trees. He took a few Aśoka leaves in his hand and said to his disciples: "What do you think, O monks, whether these few leaves, which I have gathered in my hand, are more, or the other leaves yonder in the grove?" --- "The few leaves which the Lord holds in his hand are not many, but many more are those leaves in the grove." --- "So also, O monks, is that much more which I have learned and not told you than that which I have told you."
+
+Śākyamuni is said to have left unsettled, to have set aside and rejected the questions concerning the existence of a soul (_jīva_) distinct from the body, and the nature of Nirvāṇa.
+
+As a matter of fact, there are in the Canon many sayings of Śākyamuni which, at least indirectly, settle these questions in the sense of soullessness and annihilation. We may admit _1._ that some disciples, or many disciples, felt dissatisfied with the nihilistic doctrines, and therefore hoped, at the bottom of their hearts, that they misunderstood the Master. Let us not forget that the disciples of Śākyamuni came to him as to the discoverer of the path to immortality (_amṛta_). Or, possibly _2._ there were monks without any prejudices, anxious only to be made quite sure about Nirvāṇa, not by logical conclusions drawn from psychological premisses, not by metaphorical and conflicting phrases, but by a direct and definite statement from the lips of the Omniscient. Last, not least, _3._ there were monks who had never heard of the nihilistic sayings of Śākyamuni and wondered at Śākyamuni's silence concerning soul and survival.
+
+Māluṅkyāputta was one of these monks.*
+
+*) _Majjhima_, 1., 426; Hastings, _E. R. E._ art. 'Agnosticism.'
+
+"There are," said Māluṅkyāputta, "questions that Buddha has left unsettled, has set aside and rejected... whether the soul and the body are identical; whether the soul is one thing and the body another; whether a saint exists after death; whether a saint does not exist after death; whether a saint both exists and does not exist after death; whether a saint neither exists nor does not exist after death... The fact that Buddha does not settle these questions does not please me. I will inquire. If he does not answer, in that case I abandon the religious life under the rule of Buddha."
+
+Māluṅkyāputta questions Buddha accordingly, and ends by uttering very strong words: "If the Lord does not know, the only upright thing for one who does not know, is to say: I do not know."
+
+Buddha, of course, does not confess that he does not know, nor does he answer the questions.
+
+Did I ever say to you: "Come, lead the religious life under me and I will explain to you these points"? or did you say to me: "I will lead the religious life under you on condition that you will explain to me these points"?
+
+Māluṅkyāputta confesses that Buddha has not given any pledge to that effect, and that he himself did not state any condition of his accepting the Buddhist rule. And Buddha continues:
+
+Any one who should say: "I will not lead the religious life under Buddha until Buddha explains all these points," that man would die before Buddha had ever explained these points to him.
+
+Men are suffering from actual pains which are to be healed at once; they are poisoned with desire, and desire prepares for them new rebirths and new sufferings: desire is to be crushed.
+
+It is as if a man had been wounded by an arrow thickly smeared with poison, and this man were to say: "I will not have this arrow taken out until I have learnt whether the man who wounded me belongs to the caste of the warriors... before I have been told his name, his clan, his stature, his complexion; before I have been told the nature of the bow, of the bow-string..." This man would die before he knew.
+
+As the knowledge of all these circumstances has nothing to do with the removal of the deadly arrows, even so the knowledge of the metaphysical points is totally extraneous to the discipline which abolishes suffering and desire, to the discipline of Sanctity:
+
+The religious life does not depend on the dogma that the soul and the body are identical, on the dogma that the soul is one thing and the body another thing, on the dogma that a saint exists, does not exist, both exists and does not exist, neither exists nor does not exist after death. Whether this or that dogma is true, there still remain birth, old age, death, for the extinction of which I am giving instructions... What I have left unsettled, let that remain unsettled.
+
+Thus spoke Śākyamuni.
+
+These 'agnostic' statements are astonishingly to the point. Whatever opinion a Buddhist may entertain concerning the destiny of a dead Saint, this opinion is an obstacle to serenity, to detachment, to Sanctity, and therefore to Nirvāṇa itself.
+
+If Nirvāṇa be a happy state, the monk would strive for Nirvāṇa as one would strive for a paradise, and he would accordingly miss it: he would reach at death some paradise, an enjoyable but transitory paradise. If Nirvāṇa be annihilation, Nirvāṇa would again inspire desire or abhorrence: in both cases, Sanctity is impossible. Anxiety and speculation concerning the life after death (_antagrāhaparāmarśa_) is one of the five heresies. Therefore, "let that remain unsettled that has not been settled by Śākyamuni." A monk will reach Sanctity and Nirvāṇa, without knowing what Nirvāṇa is, and for this very reason that, owing to this ignorance, he remains free from the desire of existence (_bhavatṛṣṇā_), free from the desire of non-existence (_vibhavatṛṣṇā_): "I do not long for life; I do not long for death."
+
+We believe that the most exact and the most authoritative definition of Nirvāṇa is not annihilation, but 'unqualified deliverance,' a deliverance of which we have no right to predicate anything.
+
+The idea of Nirvāṇa generally cherished by the Buddhists is not a positive one. They know that existence is suffering. And they think that there is an exit, a Nirvāṇa, deliverance from transmigration, from birth, disease, old age and death; and that is indeed enough.
+
+Nirvāṇa is looked upon as a deliverance: just as a man who is in gaol wants only to be free, even so Man does not want to be happy; he only wants to be delivered from the miseries of life. That is pessimism.
+
+It is not absolute nihilism, nihilism boldly looked at in the face. It is a negative attitude, which does not appeal to the most innate needs of our mind; but it is also to some extent an expectant attitude, which leaves some food to the needs of the human heart. The monk strives for unqualified deliverance; he does not inquire whether deliverance is destruction or a mysterious kind of existence; but he knows that Śākyamuni is omniscient and compassionate, and such a 'caravan-leader' is the great man upon whom it is safe to rely.
+
+## 5\.
+
+It remains to draw the conclusion of our inquiry, that is, to strike a sort of balance between the contradictory statements with which we are confronted, and to reconcile these statements if possible.
+
+According to the doctrinal tenets of Buddhism, accurately and profusely explained in every part of the Scriptures, Nirvāṇa is annihilation: selflessness is, from our point of view, incompatible with any kind of survival of the Saint. But do the Buddhists draw from their tenets the logical conclusion concerning Nirvāṇa? They do; or some of them do: there are categorical statements to prove that the compilers of some parts of the Scriptures identified Nirvāṇa with annihilation.
+
+Moreover it is not doubtful that Sanctity was for many a monk the very deliverance, the very Nirvāṇa preached by Buddha.
+
+But this conception of Sanctity as a goal in itself, if it agrees with the nihilistic view of Nirvāṇa, --- Nirvāṇa in the sense of annihilation, --- agrees as well with the 'agnostic' texts, with Nirvāṇa in the sense of 'unqualified deliverance.'
+
+The whole Suttanipāta testifies to the Buddhist dislike of 'opinion.' The religious life, as depicted in this book, one of the oldest, is not compatible with any opinion. Everything supports our surmise that 'annihilation' is the result of the philosophical inquiry, a mere scholastic corollary.
+
+Moreover, while we are not willing to 'maximize' the importance of the few scriptural texts which affirm the existence of a Self, under the name of _pudgala_ (an individual, a person), these texts cannot be ignored altogether. They are old; they are no less authentic than the selflessness texts; they are the authoritative texts of the Sammitīya sect, an important school. The maintainers of the _pudgala_ theory will admit that Nirvāṇa, the state of a Saint after death, is existence.
+
+And, in this connexion, we are not sure that all the scriptural passages, which describe Nirvāṇa as a happy and stable condition, refer to Nirvāṇa in the sense of Sanctity; some of them at least may refer to the state of a Saint after death. If they all refer to Sanctity, as is often contended by scholars, the reference is more than once very obscure.
+
+The obvious conclusion is that the ancient Buddhist tradition was not clear on the nature of Nirvāṇa as well as on many other points.
+
+This conclusion does not please those scholars who are prepared to turn primitive Buddhism into an orthodoxy. While we believe that the scriptural contradictions --- Nirvāṇa annihilation, Nirvāṇa immortality, Nirvāṇa a prohibited problem --- are to be accepted as they are; while we believe that the true Buddhist state of mind is a happy syncretism, scholars of a more orthodox or less catholic temperament make a choice among the conflicting views; they deny, expressly or tacitly, the authenticity or the authority of the texts which support the view they have rejected.*
+
+*) It is much safer to credit Śākyamuni and the primitive Brotherhood with all our texts, than to deny the antiquity of any idea to be found in these texts. "Il n'y a point," says La Bruyère, "d'ouvrage si accompli qui ne fondît tout entier au milieu de la critique, si son auteur voulait en croire tous les censeurs qui ôtent chacun l'endroit qui leur plaît le moins." Sainte-Beuve used to compare Homer in the hands of Wolf and Dugas-Montbel to the man with two lovers: "l'une arrache les cheveux noirs, l'autre les gris, et le voilà chauve."
+
+Much is to be learned from the position taken by the philosophers of the Mahāyāna school (neo-Buddhism). They are both honest and clear-sighted; they are plainly conscious of the contradictions of the Scriptures; they are, on the other hand, firm believers in the authenticity of these Scriptures; they cannot, therefore, resort to the Gordian method of exegesis.
+
+As _philosophers_, they have to make a choice and unanimously maintain the nihilistic interpretation of Self and of Nirvāṇa. But, as _historians_, they confess that Śākyamuni sometimes indulged in 'ontological' statements, sometimes simply prohibited inquiry concerning the 'unsettled questions,' sometimes taught annihilation. They explain why he did so, and the reasons they give for the contradictions of the Master are of far-reaching importance as concerns the _philosophical_ solution of the problem itself.
+
+It is an old opinion among the Buddhists that Śākyamuni has modified his teaching according to the needs of his hearers, according to their intellectual and moral possibilities. Let us understand his position. A Buddha is a physician, the physician of this mortal disease that is named desire. Desire originates rebirth, suffering, death. In order to cure this disease, Śākyamuni had to employ 'allopathic' contrivances. He teaches that there is not a Self --- and with such an emphasis that he sometimes gives the impression of being a 'materialist' --- because a man who believes in the reality and permanence of his Self will love his Self, will hate the Self of his neighbour, will be anxious about the state of his Self after death, in a word will desire. He teaches that there is rebirth, because the idea of annihilation at death is likely to produce the heresy of "Let us live happily so long as we are alive." He emphasizes the happiness of deliverance, in order to induce men to give up the trivial hopes of transitory paradises and many foolish devices to this end: deliverance is better than any conceivable state of existence. Last, not least, Śākyamuni does not hide this fact that deliverance is absolute silence and annihilation, the end of suffering, because it is the end of feeling. Why does he teach such a doctrine? I dare say, because the most pragmatist of the philosophers cannot help sometimes describing things as he believes they are: deliverance _is_ annihilation --- and there are some few disciples worthy to be told the truth.
+
+The simile of the physician is a Buddhist metaphor. There is another to the same effect, more Indian and also very exact. A Buddha is a tiger or rather a tigress. This tigress has to transport her cub, and accordingly takes it into her mouth; she holds it between her double set of teeth. But for the teeth, the cub would fall; but if the teeth were to be tightly closed, it would be crushed. In the same way a Buddha saves beings, transports them across the ocean of transmigration, by the parallel teaching of permanence and impermanence, Self and Selflessness, bliss of Nirvāṇa and annihilation in Nirvāṇa. Permanence, Self, bliss of Nirvāṇa: so many falsehoods. Useful falsehoods: but for them one would give up the religious training towards deliverance. Impermanence, selflessness, annihilation: so many truths. Dangerous truths, like a serpent with a jewel in its hood: it requires a clever hand to take the jewel. In the same way, few men are able to avoid being crushed by these sublime and terrible truths. Selflessness wrongly understood would lead to the wrong view that there is no survival; the doctrine of annihilation in Nirvāṇa would originate despair or distrust.
+
+Therefore Śākyamuni has been obscure on these points, and did not avoid some contradictions; and, when an inquirer was bold enough to ask for a plain answer, he plainly answered: "You shall not know." _Cela ne vous regarde pas._
+
+Buddhism ends in an act of faith. Śākyamuni will lead us to salvation provided we close our eyes and follow blindly his ordinances. The important thing in Buddhism is not dogma, but practice, not the goal, the mysterious and unascertainable Nirvāṇa, but the Path, Sanctity.
+
+# Chapter 6. The Path to Nirvāṇa.
+
+1\. The Path is the eradication of desire. 2. A middle way between asceticism and indulgence. 3. A threefold training in the Buddhist Truths. 4. A skilful practice of trances. 5. Conclusion.
+
+## 1\.
+
+Nirvāṇa is the cessation of rebirth. Desire, with action consequent upon desire, is the cause of rebirth. The path leading to deliverance from rebirth must therefore be a path leading to deliverance from desire. In order to avoid rebirth, it is necessary and sufficient to eradicate desire, desire for pleasure, desire for existence, desire for non-existence or hatred of existence; that is to become a Saint, an Arhat, free from sorrow, hope, and fear.
+
+On this point as on many another, we find in Brahmanism parallel conceptions to the Buddhist doctrine. The Upaniṣads state that Man is reborn in conformity with his desire, his aspiration, his conduct (see above, p. 64); but what is the destiny of a man who is free from desire?
+
+"When desire ceases, the mortal becomes immortal; he attains Brahman on earth. He who is without desire, who is free from desire, who desires only his own Self which is identical with the universal Self, he obtains the accomplishment of his desire in the possession of his Self. He is the universal Self and goes into the universal Self."
+
+It is not probable that the primitive Buddhists ever heard of these theories: the Self (_ātman_) which they know and reject is the individual Self and they never mention the Nirvāṇa of the individual Self in the great Self. But their doctrine of the Path may be shortly described as a secularisation of the Upaniṣad teaching: to free oneself from desire, while ignoring the universal Self and denying the human Self.
+
+On the other hand, the Buddhist path is a 'rationalisation' of a number of practices which were common at this time among ascetics of every faith and aspiration.
+
+There were many 'ford-makers,' but Śākyamuni alone has discovered the true 'ford,' or rather has re-discovered it, for the Buddhas of old had discovered it long ago; and he has designed a pattern of 'religious life' (_brahmacarya_) which is, has been, and will be, the only means to deliverance.
+
+To give a faithful and complete image of 'the religious life under the rule of Buddha' would be a long affair. Every detail of the monastic institution, every detail of the intellectual and moral training of the monks, ought to be mentioned. Further, in order to appreciate the historical interest of these manifold data, references ought to be made to the rules of the contemporaneous sects and especially to the Brahman institutions. The very word we translate 'religious life,' _brahmacarya_, meant originally 'life of a young Brahman in the house of his preceptor before his initiation and marriage.'*
+
+*) Evidences for the meaning 'continence' are old; for instance _Śatapathabrāhmaṇa_, 11., 3, 3. --- _Paramatthajotikā_, 2., 1, p. 43.
+
+But it will not be difficult to state the general principles of the Buddhist Path. We have only, in the words of the Sanskrit poet, to make a string on which to thread the jewels already pierced by others.
+
+The Path is _1._ a middle way between asceticism and laxity, _2._ a training in the Buddhist truths, _3._ a skilful practice of trances or ecstasies.
+
+## 2\.
+
+Laxity or indulgence means secular married life. Asceticism means, not only, as usually with us, not indulging in morally allowed desire, but inflicting pain, penance.
+
+The origins of asceticism, --- in Sanskrit _tapas_, a word that means heat, --- go far back into the past.* In historic India, asceticism has been turned into a religious and moral institution --- a self-torture to please the deity, to wash away the sins one has consciously or unconsciously committed, to avoid sin by mortifying the flesh. While assuming these new aspects, or, to put it more uncompromisingly, while developing in a moral direction, _tapas_ remained and remains an essentially magical affair. In the ritualistic books, it comes to the foreground of speculation as a creative power: Prajāpati, the Lord of the generations, performed penance, became hot and produced the worlds by the power of heat or penance. Prajāpati was a great 'penitent'; ascetics, men who practise the most extravagant penances, just as the modern fakirs, are 'penitents' of a smaller size, but nevertheless demiurges in their own guise, autonomous and irrepressible forces, frightful to the gods themselves.
+
+*) On _tapas_, see Oldenberg, _Religion du Véda_, tr. V. Henry, p. 345 f. The oldest source on the ecstatic penitent Muni is Rigveda 10., 136. --- See Hastings, _E. R. E._ art. 'Religious Orders.'
+
+The notion of holiness and wisdom was hopelessly confused with the notion of penance: when the idea of deliverance was discovered, men naturally thought that penitents only could have some chance of reaching deliverance.
+
+Accordingly when Gautama, the young prince of the Śākya race, abandoned his home to secure his salvation, he first followed the common track and lived for a time --- for many years --- as a Muni, that is as a solitary penitent: hence his name Śākyamuni. He indulged in the most severe abstinence from food, remaining upright and motionless, hoping for a sudden illumination of mind. Five ascetics were his companions in these austerities. A Greek sculptor, five or six centuries later, produced a realistic and spiritualized representation of his emaciated body, which is one of the masterpieces of Gandhāra art.* But the illumination did not come, and Śākyamuni felt very weak indeed: he understood that illumination requires strength of mind; he took some food and soon reached the goal for which he had long endeavoured in vain; he became a Buddha. Intellectual achievements depend on intellectual efforts.
+
+*) Senart, 'Notes d'Épigraphie,' 3., Pl. 2 (_J. As._ 1890).
+
+At the moment when Śākyamuni broke his fast, the five ascetics had deserted him, and when Śākyamuni after becoming a Buddha approached them again, they jeered saying: "Here is the one that failed in his austerities." Śākyamuni told them that he had obtained complete enlightenment. "But," they asked, "if you could not succeed in obtaining enlightenment by asceticism, how can we admit that you have succeeded when you live in abundance, when you have given up exertion?" To which Śākyamuni replied that he had not given up exertion --- for penance is not the only exertion --- and that his life was not a life of abundance; for the path of the men 'who have given up the world' to obtain deliverance is a middle path between the two extremes, asceticism and indulgence. "What are the two extremes? A life addicted to sensual pleasures: this is base, sensual, vulgar, ignoble, pernicious; and a life addicted to mortification: this is painful, ignoble and pernicious."*
+
+*) _Mahāvagga_, 1., 6, 10 foll. (_S. B. E._ 13., p. 93; E. J. Thomas, _Buddhist Scriptures_, p. 40). Comp. _Milinda_, 2., p. 60. The history of the first days of Buddhahood is to be read in full. It bears every mark of authenticity; but we must beware that Indians are wonderful story-tellers.
+
+While many ascetics, the Jains for instance, regarded penance as the chief element of spiritual progress,* Śākyamuni depreciates and even, in some cases, forbids penance. _1._ If penance is practised in order to obtain worldly advantages, rebirth in heaven or magical powers, the divine eye, etc., it is a purely mundane affair; born from desire, it produces desire, and is far from leading to salvation. _2._ As concerns salvation, penance by itself is of no avail. To hold the contrary is 'heresy,' technically the _śīlavrataparāmarśa_, 'believing in the efficiency of rites and ascetic practices.'
+
+*) The _Aitareyabrāhmaṇa_, 7., 13, is strong against penance. 
+
+Śākyamuni does not condemn every penance, far from that. But he thinks that, even when practised by the 'orthodox,' penance presents many drawbacks.
+
+One of them is that it is likely to beget spiritual pride, one of the pitfalls of the monks:
+
+"Whosoever is pure and knows that he is pure, and finds pleasure in knowing that he is pure, becomes impure and dies with an impure thought. Whosoever is impure and knows that he is impure, and makes effort to become pure, dies with a pure thought."
+
+Again some penances --- abstinence from food, for instance, not to mention mutilations --- are injurious to body and therefore to mind. Now full strength of mind is necessary to the understanding of the philosophical truths that are really to purify the thought. The body, therefore, must be treated without hatred if without love; the monks have to take care of their body, but it is unjust to say that they love it. As Nāgasena told the king Milinda*:
+
+"Have you ever at any time been hit in battle by an arrow?" --- "Yes, I have." --- "And was the wound anointed with ointment, smeared with oil and bandaged with a strip of fine cloth?" --- "Yes, it was." --- "Did you love your wound?" --- "No." --- "In exactly the same way, the ascetics do not love their bodies; but, without being attached to them, they take care of their bodies in order to advance in the religious life."
+
+*) _Milinda_, p. 73 (Warren, p. 423).
+
+But, if the body is not to be crushed, the desires of the body are to be crushed. Śākyamuni condemns every indulgence; the smallest concession may be disastrous; desire is everywhere, for we are living desire*:
+
+All things, O monks, are on fire. The eye is on fire, visible forms are on fire, visual cognitions are on fire, impressions received by the eye are on fire, and whatever sensations, pleasant, unpleasant or indifferent, originate in dependence on impressions received by the eye, these also are on fire. And with what are these on fire? With the fire of lust, with the fire of hatred, with the fire of infatuation.
+
+*) _Mahāvagga_, 1., 21.
+
+Ear and sounds, nose and smells, tongue and taste, body --- that is the organ of touch --- and tangible qualities, mind and ideas are also on fire.
+
+The right means to extinguish this fire is not the surgical method --- neither vow of silence, in order to avoid sins and desires of the voice: for if that be the case, mute animals would be Saints; nor absence of thought; nor craziness, real or simulated folly (_unmattaka_), nor other stupid and stupefying devices, such as living as a cow or a dog, nor mutilations and self-torture, nor suicide, this _ultima ratio_ of the Jain ascetics. Suicide is clearly an action commanded by desire or by disgust: one commits suicide to be better elsewhere or to avoid pain.* The Buddhist must wait his time, without longing for life, without longing for death.
+
+*) Warren, p. 437.
+
+The right means to extinguish the fire is the intellectual method which we shall outline presently, coupled with a moderate asceticism.
+
+1\. There were, in the primitive Brotherhood, men of penitential tendencies, --- former adherents of penitential orders, for instance Mahākāśyapa and his followers, who had realized the superiority of Śākyamuni's teaching, who had recognized in Śākyamuni the Omniscient One and the leader of spiritual life. Śākyamuni did not provide for them a new rule: he condemned the most morbid exaggerations of asceticism and the indecent practices, nakedness and so on; but he permitted a number of mortifications (_dhūtaguṇa_) which were not in themselves objectionable.
+
+The 'hermits' (_āraṇyaka_) the 'men of cemeteries' (_śmāśānika_) form, throughout the history of the church, a special class of monks, dangerously like the non-Buddhist ascetics. They were holy men, ecstatics and poets,* but in some respects they were 'heretics' as well.*
+
+*) The 'Psalms of the Brethren' and the 'Psalms of the Sisters' (tr. by Mrs. Rhys Davids) are mostly the work of 'penitents.'
+
+*) See my _Bouddhisme_ (Paris, 1909), p. 356 foll.
+
+2\. The conception of the truly Buddhist religious life is to be found in the Vinaya which contains the rules established by Śākyamuni and the first generation of Elders for the monks and the nuns of common observance. The more we study the Vinaya,* the more we wonder at the common sense that is visible in the general principles and in many details.
+
+*) _S. B. E._ vol. 13., 17., 20.
+
+The monks of common observance have been by far the most numerous and the most important in the history of Buddhism. Absolute continence, no private property; a very strict régime which affords little or no scope for concupiscence or for individual fancy, which seems very favourable to moral mortification while avoiding any corporeal pain; the life of a wandering mendicant during the dry season, and, during rains, a cenobitic life with all the mutual concessions and admonitions this life implies. On the whole an aristocratic form of asceticism, very much resembling the asceticism of the Brahmans.
+
+But Brahmans and Buddhists diverge on one point which is very important.*
+
+*) Beside the point we mention here, there are several others equally worthy of notice: the attitude of Buddhism and Brahmanism towards women, towards outcasts and low castes, etc.
+
+The Brahmans are strong on the _mos majorum_. They say: "Win only the knowledge of the Self and leave alone everything else"*; but they nevertheless continue to sacrifice to the gods, because the gods exist κατὰ δόξαν. They believe that every sensible man has to try to obtain eternal deliverance, and that a meditative, semi-penitential life is necessary in order to reach this lofty aim. But they cannot admit that it can be right to forsake the duties of caste; and, like their Āryan ancestors, they cling to the theory of the four debts. Man pays his debt to the gods by sacrifice, to the Veda by study, to the dead by the birth of a son, to men by hospitality. When he has paid this fourfold debt, then only may the Brahman abandon everything and take up his abode in the forest in order to meditate, to save himself, to die as a holy man.
+
+*) _Muṇḍaka_, 2., 2, 5 (Barth, _Religions_, p. 81).
+
+As usual, the Brahmanic point of view is forcibly expressed in the Mahābhārata. We are told that an anchorite, who had 'left the world' before marrying, came to a terrible place, which was in fact the pit of hell. There he recognized his father, his grandfather, the long series of all his ancestors, suspended one below another on the open mouth of the abyss. The rope which prevented them from falling was slowly and surely being gnawed by a mouse, a figure of Time. And so many voices, some well known, reminding him of accents heard when a child, some unknown yet appealing to a profound and hidden instinct, so many voices cried: "Save us! save us!" The only hope of welfare for the long series of the ancestors is the son to be born of their descendant. The anchorite understood the lesson, married, and was able to save himself without remorse, having saved his ancestors. (See _Paramatthajotikā_, 2., 1., p. 317.)
+
+The Buddhists are more consistent. Laymen, however faithful, generous and virtuous they may be, even if they practise the fortnightly abstinence and continence of the Upavāsa, cannot reach Nirvāṇa. The only Buddhist, in the proper meaning of the word, is the monk who has broken all the ties of society; and the sooner one becomes a monk, the better. Why delay in getting rid of occasions of greed and of carnal desire? Therefore children are admitted, not to religious vows, but to the apprenticeship of the vows, when they are seven years old and big enough to drive away the rooks.
+
+If by chance, and despite the theory, a layman obtains Sanctity, he is miraculously turned into a monk; he suddenly appears shaved, garbed in the yellow robe, alms bowl in hand, like, in all his demeanour, to a monk who has fifty years of profession.
+
+## 3\.
+
 ...
