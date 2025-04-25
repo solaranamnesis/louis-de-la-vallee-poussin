@@ -68,7 +68,7 @@
 
 ## [5.]()
 
-# [Chapter 6. The Path to Nirvāṇa.]()
+# [Chapter 6. The Path to Nirvāṇa.](#chapter-6-the-path-to-nirvāṇa-1)
 
 ## [1.]()
 
