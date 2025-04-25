@@ -64,6 +64,14 @@
 
 ## [3.]()
 
+# [Chapter 6. The Path to Nirvāṇa.]()
+
+## [1.]()
+
+## [2.]()
+
+## [3.]()
+
 ---
 
 À mes collègues Paul Frederico et Henri Pirenne en témoignage de respect et d'affection.
