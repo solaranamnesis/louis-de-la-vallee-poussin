@@ -76,6 +76,10 @@
 
 ## [3.]()
 
+## [4.]()
+
+## [5.]()
+
 ---
 
 À mes collègues Paul Frederico et Henri Pirenne en témoignage de respect et d'affection.
@@ -1258,4 +1262,132 @@ If by chance, and despite the theory, a layman obtains Sanctity, he is miraculou
 
 ## 3\.
 
-...
+The moderate asceticism* we have described is not, to speak exactly, a part of the Path leading to the eradication of desire; it is rather only a preparation to the Path: getting away from the occasions of desire. The Path is essentially a training in the Buddhist truths.
+
+*) Technically _prātimokṣasaṃvara_.
+
+Desire depends on the organs of sense and the exterior objects. Whereas we are not allowed to destroy the organs, since suicide, mutilations, fasting are objectionable, the pleasant exterior objects are too many to be suppressed. In the same way, it is impossible to avoid every occasion of anger; solitary life does not realize perfect loneliness; suffering, disgust and anger follow the monk even in the 'empty room' (_śūnyāgāra_) where he sits to meditate.
+
+It is said*:
+
+There is not leather enough to cover the surface of the earth in order to make it smooth. But put on shoes, and the whole earth will be smooth.
+
+*) _Bodhicaryāvatāra_, 5., 13; L. D. Barnett, _Path of Light_.
+
+In order --- not to avoid lust (_rāga_) and anger or disgust (_dveṣa_), a mere palliative --- but to eradicate them, the only method is to cure one's self, to eradicate the delusion (_moha_) that originates lust and anger. We exert no mastery over Nature or over the body, but we can master our own mind and destroy the four mistakes (_viparyāsa_): looking at what really is unpleasant, impure, transitory, and unsubstantial, as if it were pleasant, pure, permanent, and substantial. We must learn to see things as they really are; technically, we must possess the Four Truths: every existence is a state of suffering or turns to suffering; existence originates in desire; cessation of rebirth --- Nirvāṇa --- is perfect bliss; the way thither is cessation of desire. First and last, we must reahze the true nature of this intricate, deceiving, and most dear compound that men style 'I.'
+
+The possession of the Truths brings about a complete renovation of the mind.* Desire cannot germinate in a mind which is enlightened by true wisdom, as a plant cannot germinate in salt. The agreeable and the disagreeable exist only because we believe them to be lovable or hateful: they are creations of the mind. Pain disappears as soon as we cease thinking 'I' and 'mine.' It is said:
+
+*) The actions concerned with the possession of the Truths form this kind of Karman which destroys Karman (see above, p. 89).
+
+In the same way as a man resents the bad conduct of his wife while he still loves her, and no longer; even so the pain of the body is no longer resented when a man ceases to consider the body his own.
+
+The possession of the Truths depends on three conditions, Faith (_śraddhā_), Sight (_darśana_), Cultivation (_bhāvanā_).
+
+1\. Śākyamuni alone has discovered the Truths; there is no hope of salvation for a man who does not take refuge in the Buddha and in the Truths revealed by him.*
+
+*) See my _Bouddhisme_ (Paris, 1909), pp. 130 foll.; above, p. 106.
+
+In some cases, it is possible to ascertain that the Buddha's word is trustworthy; in others, one must say: "I admit that because I believe in Buddha's word"; "Buddha knows and I do not know." The general principle is as follows*: "One must meditate on and understand the points of doctrine that are intelligible to an ordinary man. For the others, one must willingly admit them, saying: That belongs to Buddha's domain of vision." It is said*:
+
+When Buddha, this lion of men, roars his lion's roar in the assemblies, if anybody ventures to say that Buddha does not possess superhuman virtues, that he does not know the absolute truth, that his teaching is made up of dialectic, is accompanied by research, experience, individual intuition, --- if a man ventures to think or to speak in this way and does not regret his thought or his word, he will be precipitated into hell.
+
+*) _Bodhisattvabhūmi_, 1., 18.; Comp. _Sūtrālaṃkāra_, 1., 12.
+
+*) _Majjhima_, 1., p. 71.
+
+2\. But faith is not sufficient. Truths accepted on the authority of others do not really belong to us; they remain, as it were, extraneous and precarious possessions; they are not turned into our flesh and blood, _en sang et nourriture_. The Buddhist truths are to be understood and realized; the Saint is the man who has become, like Śākyamuni himself, but under the guidance of Śākyamuni, an 'enlightened' one.
+
+Texts which recommend or rather enjoin personal inquiry and criticism compare in strength and number with the texts which praise faith. Śākyamuni does not demand a blind adhesion; he does not, as a rule, perform miracles to convert his opponent. The real miracle is the 'miracle of the teaching.' Śākyamuni's teaching is 'accompanied by proofs'; "it must not be accepted out of respect; on the contrary, it must be criticized, as gold is proved in the fire."*
+
+*) _Nyāyabindupūrvapakṣa, Mdo hgrel_, 111.
+
+Now, O monks, are you going to say: We respect the Master and out of respect for the Master, we believe this and that? --- We will not say so. --- Is not what you will say to be true, that exactly which you have by yourselves seen, known, apprehended? --- Exactly so.*
+
+*) _Majjhima_, 1., p. 265.
+
+This point, as many another, has been very well illustrated by Oldenberg. Buddhas do not liberate their fellow creatures. A Buddha is only a preacher, and he teaches men how to liberate themselves. Disciples accept his preaching, not only because it comes from a man who is visibly a saint, a _vītarāga_, that is 'a man free from passion,' and who therefore, according to the Indian opinion, is likely to be omniscient (_sarvajña_) --- but because his preaching proves accurate, because, as says Oldenberg, "aroused by his word, a personal knowledge arises in their mind."*
+
+*) _Buddha_, tr. A. Foucher, p. 321.
+
+Pascal says the same thing and he points out the deep reason of the prestige of the great spiritual leaders:
+
+On trouve dans soi-même la vérité de ce qu'on entend, laquelle on ne savait pas qu'elle y fût, en sorte qu'on est porté à aimer celui qui nous le fait sentir.
+
+Buddhists are introduced into the realm of truth by Faith; they possess truth only by Sight. They walk by sight and not by faith.
+
+It may be remarked that the position of the Brahman philosopher towards the Veda --- more exactly, towards the Vedānta, the Upaniṣads --- is almost the same. No human being would have discovered the great axiom of the Upaniṣads of the identity of the Self with the universal Self; but the truth of this axiom, once by faith it has been admitted, is proved beyond doubt by personal intuition.
+
+3\. Sight must be followed by _bhāvanā_, that is cultivation, exercise, meditation, pondering again and again, impressing.
+
+As far as we can see, Cultivation does not bring an increase of knowledge, a more accurate or more extended intelligence of unpleasantness, impurity, impermanence, unreality. But it confers a firmer knowledge which enables the ascetic to look always at things as they are, without being ever deceived by their apparent pleasantness, purity, permanence, reality.
+
+To be accurate and technical, _darśana_ destroys six of the ten passions or errors (_anuśaya_) and turns an 'ordinary' man (_pṛthagjana_) into a 'converted' man (_srotaāpanna_); _bhāvanā_ destroys the four remaining _anuśayas_ (_pratigha, rāga, māna, avidyā_) in so far as they are concerned with Kāmadhātu, and turns the _śrotaāpanna_ first into a _sakṛdāgāmin_ (by the destruction of the first six degrees of these _anuśayas_), then into an _anāgāmin_ (by the destruction of the remaining three degrees); _bhāvanā_ again destroys _rāga, māna_ and _avidyā_ which are concerned with the Rūpadhātu and the Ārūpyadhātu, and turns the _anāgāmin_ into an Arhat. There is no _pratigha_ above the Kāmadhātu.
+
+One of the simplest and most important of the 'meditations' is the 'meditation on loathsomeness' (_aśubhabhāvanā_). We should like to describe it shortly, not to bring disgrace on Buddhism, but in order to give a more exact idea of the so-called 'spiritual training,' in order to portray more faithfully the physiognomy of the ascetic. There are in Buddhism so many lofty feelings, and also so modern an effort towards 'rationalism,' that the student --- the compiler as well as the reader of a Manual --- is likely to forget its Hindu features.
+
+Visits to cemeteries, where unburied bodies are left to decay, are a duty of a monk, and there are in the Buddhist brotherhood ascetics who choose to live in cemeteries --- the _śmāśānikas_, men of the cemeteries --- in order to meditate uninterruptedly on the impermanence and the impurity of the body. The meditation takes on rather physical and emotional characters.*
+
+*) Warren, p. 360; _Yogāvacara Manual_, p. 53.
+
+Ten 'cemeteries,' that is ten aspects of the dead body, are to be realized in turn, --- to begin with the body one day dead, or two days or three days dead, swollen, black --- to continue with an older corpse eaten by crows, with the corpse which has become 'this I know not what, something that has no name in any language,' but which the Buddhists are fond of describing at great length --- to end with the bones rotting and crumbling into dust, as they have been washed by the rains of years.
+
+The monk, for days and months, lives with the idea: "Verily, my body also has this nature, this destiny, and is not exempt."
+
+Such is one of the forms of the meditation on loathsomeness. When it has been practised long enough, it is not enough to say that the beauty and the form of a woman have lost their natural attractiveness: they are no longer perceived. The ascetic sees the skeleton only and the forthcoming putrefaction.
+
+Despite its 'romantic' adjuncts, _bhāvanā_ is an intellectual affair, the third degree of the realization of a truth.
+
+To be taught impermanence, to be told that "Life ends in death" is one thing. Young men, 'infatuated by the pride of youth,' may agree to this statement: "Life ends in death," but they do not understand its true import. That is Faith, adhesion to the word of the Master. To ascertain this statement by personal inquiry, is what is called Sight. Finally, to ponder over it, until it becomes not only familiar, but actually always present to the mind, that is Cultivation.
+
+## 4\.
+
+The path to deliverance would have been very reasonable --- we mean, would be thoroughly intelligible to us --- if the Buddhists had been satisfied with the realization of the Truths, positive statements to be believed, 'seen' or understood, 'cultivated' or pondered over; but the words Sight and Cultivation, explained as above, do not convey the true import of the Buddhist _darśana_ and _bhāvanā_. A factor, a practically almost necessary factor of _darśana_ and _bhāvanā_, is what is called concentration (_samādhi_), trance (_dhyāna_), attainment (_samāpatti_) --- a non-intellectual element.
+
+The history of trance is a long and obscure one. Trance has been traced in the semi-civilized civilisations. Just as penance is a common practice among the medicine-men, the sorcerers of old, even so trance is an archaic device. It was admitted that Man obtains, in semi-hypnotic states, a magical power. The name of a thing is supposed to be either the thing itself or a sort of double of the thing: to master, during trance, the name, is to master the thing.
+
+Just as penance, trance became a means to spiritual aims.
+
+That is the case with Brahmanism. Trance is the necessary path to the merging of the individual Self into the universal Self. To speak more accurately, there is only one Self, which is immanent in Man. For a time, the knowledge of our essential identity with this Self was looked upon as sufficient. But the actual feeling of identity was soon considered as necessary. Such feeling is impossible in ordinary consciousness; therefore it must be realized in trances, trances to be induced by hypnotic devices, the same as were practised by the sorcerers, protracted rigidity of body, fixity of look, mental repetition of strange sets of formulae, suppression of breath. Further, the immanence of the Self is a very materialistic one: it has its seat in the heart, where it is felt stirring and from which it directs the animal spirits; it makes its way along the arteries... Psycho-physical exercises are necessary to concentrate all the vital energies in the heart, that is to withdraw the Self from the not Self.* Hence the intricate discipline known as _Yoga_, with trance as an essential element.
+
+*) Barth, _Religions of India_, p. 71.
+
+It is only fair to state that the position of trance is, in Buddhism, a quite different one. Trance, like asceticism, is not an essential part of the Path, even if it were admitted that it is practically necessary, _d'une nécessité de moyen_, to use a phrase of the Catechism.
+
+Buddhism teaches in so many words that not every trance is good. A trance which is not aimed at the right end, eradication of desire, is a mundane (_laukika_) affair. When undertaken with desire, in order to obtain either advantages in this life, namely magical powers, or some special kind of rebirth, trances cannot confer any spiritual advantage. Of course, if they are correctly managed, they succeed, as any other human contrivance would succeed: a monk or any man who devotes himself to the concentration called 'of the realm of the infinity of space,' in order to live for centuries in the realm of the 'gods meditating on the infinity of space,' will be reborn in this realm, provided he has not to pay some old debts in hell or elsewhere; he will live there for centuries, as he hoped for; but he will die there some day and continue migrating.
+
+But, on the other hand, it is an ascertained fact that Śākyamuni obtained 'enlightenment' by the practice of trances, and accordingly every monk has to practise trances if he is to make any progress. The more Buddhism discourages 'mundane' trance, the more it extols 'supramundane' (_lokottara_) trance, that is trance entered into, in order to cut off desire, by a monk who endeavours to get possession of the Truths. The intention of the ascetic and his moral preparation make all the difference between mundane and supramundane trance.
+
+Our texts clearly state that several of the Buddhist trances were practised by non-Buddhists, and scholars agree that the Buddhists did actually borrow from the common store of mystical devices.
+
+The actual aim of trance seems to be, in Buddhism, twofold: to strengthen the mind, to empty the mind.
+
+1\. By means of trance, the ascetic concentrates the mind, strengthens the power of attention, gets rid of distraction. There are many technical contrivances, among which the ten _kṛtsnāyatanas_ which seem to deserve special notice.*
+
+*) See Warren, p. 293.
+
+The monk makes a disk of light red clay --- such as is found in the bed of the Ganges --- one span four inches in diameter. He sits at a distance of two and a half cubits from the disk, on a seat of a height fixed by rule: if he were to sit further off, the disk would not appear plainly; if nearer, the imperfections of the disk would be visible; if too high, he would have to bend his neck to look; if too low, his knees would ache. Then the meditation begins: the ecstatic has to look at the disk as long as it is necessary in order to see it with closed eyes, that is in order to create a mental image of the disk. To realize this aim, he must contemplate the disk sometimes with his eyes open, sometimes with his eyes shut, and thus for a hundred times, or for a thousand times, or even more, until the mental image is secured. All the time he conceives indifference for sensual pleasure; he reflects on the qualities of Buddha; he affirms his confidence in the efficacy of the exercise he is performing.
+
+2\. Trances may be defined as efforts towards an actual simplification or emptying of thought; as endeavours to get directly rid of the very ideas of I, mine, being, non-being.* As it is said:
+
+When being and not being no longer stand before the mind, then thought is definitely appeased.
+
+*) See Mrs. Rhys Davids, _Psychology_ (1914), p. 110 foll.
+
+The method is not a view, either discursive or immediate, of impermanence or unsubstantiality, but a mechanical process.
+
+The mind, once concentrated (_samāhita_) and strengthened by exercise with the clay disk or any other exercise of the same kind, is successively to abandon its contents and its categories. The ecstatic starts from a state of contemplation coupled with reasoning and reflection; he abandons desire, sin, distractions, discursiveness, joy, hedonic feeling; he goes beyond any notion of matter, of contact, of difference; through the meditation of void space, of knowledge without object, of nothingness, he passes into the stage where there is neither consciousness nor unconsciousness and finally he realizes the actual disappearance of feeling and notion.
+
+It is a lull in the psychical life which coincides with perfect hypnosis.
+
+At a moment which has been previously determined --- modern physicians explain how this is possible --- the ecstatic comes back, through the same successive steps, to the world of the living.
+
+Does he come back in exactly the same condition as he was before? Can he practise these 'spiritual' attainments again and again, every afternoon after he has taken his only meal, sitting in an empty room or under the shadow of a tree, without being psychologically and corporeally affected?
+
+The Buddhists believe that the mind remains, as it were, perfumed by the trances. For some hours or for seven days, sensation and cognition have been completely stopped. The ideas of I, mine, being, not-being are likely to present themselves again --- as a matter of fact, they present themselves again as soon as mental life begins afresh --- but they have lost their inherited power of arousing desire; they have been 'attenuated': "The mind of a monk who has risen from the trance of the cessation of feeling and notion is inclined to isolation, has a tendency to isolation, is impelled to isolation." Thus says Śākyamuni.
+
+We willingly agree. The professional ecstatic is likely to forget how to see exterior objects: the mental reflexes he has cultivated turn to be more real than the changing appearances; in the same way, the ecstatic hears mysterious sounds. He becomes inaccessible to the desires that are born from the senses, inaccessible to pain, for his nervous sensibility is almost destroyed; he is happy; he is a Saint; he will not be reborn, because he has introduced into the series of his thoughts such a number of blank spaces that the further generation of thought and desire is stopped.
+
+## 5\.
+
+There are many aspects of Buddhism, which are more attractive than the aspect we have been studying. Apart from the religious developments known as Mahāyāna, older Buddhism owes the popularity which it has enjoyed in India and which it enjoys in the West, not to its intricate theories on the soul or on the Path, but to its moral features, to the charming, if enigmatic, personality of the Master, to the mild wisdom of its gnomic poetry, to the legendary literature (Birth Stories) which contains so much folklore, humanity and wit. In fact, we have been busied with the most abstruse side of Buddhism, and, by no means, with the most important from the historical standpoint. But, from the philosophical standpoint, it is useful to make out clearly the reasons why this old query "Is Buddhism, since it is atheist, a religion?" is not a real problem. An inadequate knowledge of the nature of Indian mysticism and of the twofold nature of Buddhism is responsible for the confusion that is implied in such a view. Secondly, Buddhists have been credited with opinions concerning Soul and Nirvāṇa, which are by no means correct. I venture to think that it is worth while to consider anew these important and controverted points, and that, while the last word will never be said, our endeavours towards a more truly Buddhistic interpretation have not been utterly vain. My late friend Cecil Bendall willingly confessed that the only means to a right understanding of a religion is to believe in this religion. I am not prepared to say that I am a Buddhist, and moreover it is too late to take the _pabbajjā_ under Sāriputta; but I have spared no pains to think and to feel as did the 'yellow-robed monks' who have rendered so eminent services, not to mankind as a whole, but to India, to China, to the Far East.
