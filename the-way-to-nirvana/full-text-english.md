@@ -14,71 +14,71 @@
 
 # [Chapter 1. Indian Disciplines of Salvation.](#chapter-1-indian-disciplines-of-salvation-1)
 
-## [1.]()
+## [1.](#1-6)
 
-## [2.]()
+## [2.](#2-6)
 
-## [3.]()
+## [3.](#3-6)
 
 # [Chapter 2. The Buddhist Soul.](#chapter-2-the-buddhist-soul-1)
 
-## [1.]()
+## [1.](#1-7)
 
-## [2.]()
+## [2.](#2-7)
 
-## [3.]()
+## [3.](#3-7)
 
-## [4.]()
+## [4.](#4-5)
 
-## [5.]()
+## [5.](#5-4)
 
-## [6.]()
+## [6.](#6-1)
 
 # [Chapter 3. Buddhist Definition of Karman.](#chapter-3-buddhist-definition-of-karman-1)
 
-## [1.]()
+## [1.](#1-8)
 
-## [2.]()
+## [2.](#2-8)
 
-## [3.]()
+## [3.](#3-8)
 
-## [4.]()
+## [4.](#4-6)
 
 # [Chapter 4. The Doctrine of Karman and Transmigration, Cosmogony, Theogony.](#chapter-4-the-doctrine-of-karman-and-transmigration-cosmogony-theogony-1)
 
-## [1.]()
+## [1.](#1-9)
 
-## [2.]()
+## [2.](#2-9)
 
-## [3.]()
+## [3.](#3-9)
 
-## [4.]()
+## [4.](#4-7)
 
-## [5.]()
+## [5.](#5-5)
 
 # [Chapter 5. Nirvāṇa.](#chapter-5-nirvāṇa-1)
 
-## [1.]()
+## [1.](#1-10)
 
-## [2.]()
+## [2.](#2-10)
 
-## [3.]()
+## [3.](#3-10)
 
-## [4.]()
+## [4.](#4-8)
 
-## [5.]()
+## [5.](#5-6)
 
 # [Chapter 6. The Path to Nirvāṇa.](#chapter-6-the-path-to-nirvāṇa-1)
 
-## [1.]()
+## [1.](#1-11)
 
-## [2.]()
+## [2.](#2-11)
 
-## [3.]()
+## [3.](#3-11)
 
-## [4.]()
+## [4.](#4-9)
 
-## [5.]()
+## [5.](#5-7)
 
 ---
 
