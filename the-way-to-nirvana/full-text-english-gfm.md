@@ -1261,7 +1261,9 @@ There are many aspects of Buddhism, which are more attractive than the aspect we
 [^67]: The Yamaka dialogue (_Saṃyutta_, 3., p. 109, see the translation of Warren, p. 138, of Oldenberg, tr. Foucher, p. 279) is not, as Oldenberg believes, an evidence against the doctrine of annihilation. On the contrary _Udāna_, 8., 3 (_Itivuttaka_, § 43), which Oldenberg understands in the meaning of annihilation, is by no means clear.
 [^68]: _Manual_ (1877), pp. 110-115; _Hibbert Lectures_ (1881), pp. 161, 253; compare Childers (1875), p. 208.
 [^69]: _Dhammapada_, 28.
-[^70]: Milton's lines are not Buddhistic: For who would lose, though full of pain, this being, These thoughts that wander through eternity?
+[^70]: Milton's lines are not Buddhistic:
+    For who would lose, though full of pain, this being,
+    These thoughts that wander through eternity?
 [^71]: _Saṃyutta_, 5., p. 437; compare _Milinda_, p. 413; _Dīgha_, 2. p. 100.
 [^72]: _Majjhima_, 1., 426; Hastings, _E. R. E._ art. 'Agnosticism.'
 [^73]: It is much safer to credit Śākyamuni and the primitive Brotherhood with all our texts, than to deny the antiquity of any idea to be found in these texts. "Il n'y a point," says La Bruyère, "d'ouvrage si accompli qui ne fondît tout entier au milieu de la critique, si son auteur voulait en croire tous les censeurs qui ôtent chacun l'endroit qui leur plaît le moins." Sainte-Beuve used to compare Homer in the hands of Wolf and Dugas-Montbel to the man with two lovers: "l'une arrache les cheveux noirs, l'autre les gris, et le voilà chauve."
